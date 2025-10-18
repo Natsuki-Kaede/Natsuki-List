@@ -8,12 +8,12 @@ Mixed AD rules for personal use.
 
 ### Respond by rcode NOERROR (Recommended)
 ```
-https://testingcf.jsdelivr.net/gh/Natsuki-Kaede/Natsuki-List@latest/adguardhome.txt
+https://github.com/Natsuki-Kaede/Natsuki-List/raw/refs/heads/main/adguardhome.txt
 ```
 
 ### Legacy
 ```
-https://testingcf.jsdelivr.net/gh/Natsuki-Kaede/Natsuki-List@latest/hosts.txt
+https://github.com/Natsuki-Kaede/Natsuki-List/raw/refs/heads/main/hosts.txt
 ```
 
 ## Sing-box
@@ -45,7 +45,7 @@ https://testingcf.jsdelivr.net/gh/Natsuki-Kaede/Natsuki-List@latest/hosts.txt
                 "tag": "natsuki-list",
                 "type": "remote",
                 "format": "binary",
-                "url": "https://testingcf.jsdelivr.net/gh/Natsuki-Kaede/Natsuki-List@latest/natsuki-list.srs"
+                "url": "https://github.com/Natsuki-Kaede/Natsuki-List/raw/refs/heads/main/natsuki-list.srs"
             }
         ]
     }
