@@ -8,12 +8,12 @@ Mixed AD rules for personal use.
 
 ### Respond by rcode NOERROR (Recommended)
 ```
-https://testingcf.jsdelivr.net/gh/Natsuki-Kaede/Natsuki-List@main/adguardhome.txt
+https://testingcf.jsdelivr.net/gh/Natsuki-Kaede/Natsuki-List@latest/adguardhome.txt
 ```
 
 ### Legacy
 ```
-https://testingcf.jsdelivr.net/gh/Natsuki-Kaede/Natsuki-List@main/hosts.txt
+https://testingcf.jsdelivr.net/gh/Natsuki-Kaede/Natsuki-List@latest/hosts.txt
 ```
 
 ## Sing-box
@@ -45,7 +45,7 @@ https://testingcf.jsdelivr.net/gh/Natsuki-Kaede/Natsuki-List@main/hosts.txt
                 "tag": "natsuki-list",
                 "type": "remote",
                 "format": "binary",
-                "url": "https://testingcf.jsdelivr.net/gh/Natsuki-Kaede/Natsuki-List@main/natsuki-list.srs"
+                "url": "https://testingcf.jsdelivr.net/gh/Natsuki-Kaede/Natsuki-List@latest/natsuki-list.srs"
             }
         ]
     }
@@ -59,6 +59,8 @@ https://testingcf.jsdelivr.net/gh/Natsuki-Kaede/Natsuki-List@main/hosts.txt
 > [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules)
 >
 > [SukkaW/Surge](https://github.com/SukkaW/Surge)
+>
+> [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD)
 
 # License
 GPLv3
