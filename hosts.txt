@@ -2,7 +2,7 @@
 ! Title: Natsuki-List
 ! Description: Mixed AD rules for personal use.
 ! License: GPLv3
-! Last modified: 2025-10-26T13:12:21.250Z
+! Last modified: 2025-10-26T13:43:02.654Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -31,15 +31,31 @@
 ||httpdns-sdk.n.netease.com^
 ||httpdns.music.163.com^
 ||httpdns.n.netease.com^
-||lofter.httpdns.c.163.com^
-||music.httpdns.c.163.com^
-||httpdns.push.oppomobile.com^
+||httpdns.volcengineapi.com^
+||httpdns-euex-push.heytapmobile.com^
+||httpdns-ocloud.heytapmobile.com^
+||httpdns-push.heytapmobile.com^
+||httpdns.calorietech.com^
 ||httpdns.ocloud.oppomobile.com^
-||dns.weixin.qq.com^
-||dns.weixin.qq.com.cn^
-||httpdns.kg.qq.com^
+||httpdns.push.oppomobile.com^
 ||httpdns.ocloud.heytapmobi.com^
 ||httpdns.push.heytapmobi.com^
+||httpdns.yunxindns.com^
+||httpdns.danuoyi.tbcache.com^
+||httpdns.zybang.com^
+||httpdns.volces.com^
+||httpdns.kwd.inkuai.com^
+||httpdns.cctv.com^
+||yyapp-httpdns.gslb.yy.com^
+||union-httpdns.gslb.yy.com^
+||httpdns-v6.gslb.yy.com^
+||httpdns.gslb.yy.com^
+||httpdns.kg.qq.com^
+||httpdns.qcloud.com^
+||lofter.httpdns.c.163.com^
+||music.httpdns.c.163.com^
+||dns.weixin.qq.com^
+||dns.weixin.qq.com.cn^
 ||apidns.kwd.inkuai.com^
 ||dns.jd.com^
 ||dns.weibo.cn^
@@ -47,14 +63,7 @@
 ||dotserver.douyucdn.cn^
 ||httpdns.bilivideo.com^
 ||httpdns.browser.miui.com^
-||httpdns.cctv.com^
-||httpdns.danuoyi.tbcache.com^
-||httpdns.gslb.yy.com^
-||httpdns.kwd.inkuai.com^
 ||httpdns.pro^
-||httpdns.volcengineapi.com^
-||httpdns.yunxindns.com^
-||httpdns.zybang.com^
 ||ppio.cloud^
 ||yfp2p.net^
 ||yfcdn.net^

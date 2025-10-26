@@ -2,7 +2,7 @@
 ! Title: Natsuki-List
 ! Description: Mixed AD rules for personal use.
 ! License: GPLv3
-! Last modified: 2025-10-26T13:12:21.250Z
+! Last modified: 2025-10-26T13:43:02.654Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -31,15 +31,31 @@
 ||httpdns-sdk.n.netease.com^$dnsrewrite=NOERROR;;
 ||httpdns.music.163.com^$dnsrewrite=NOERROR;;
 ||httpdns.n.netease.com^$dnsrewrite=NOERROR;;
-||lofter.httpdns.c.163.com^$dnsrewrite=NOERROR;;
-||music.httpdns.c.163.com^$dnsrewrite=NOERROR;;
-||httpdns.push.oppomobile.com^$dnsrewrite=NOERROR;;
+||httpdns.volcengineapi.com^$dnsrewrite=NOERROR;;
+||httpdns-euex-push.heytapmobile.com^$dnsrewrite=NOERROR;;
+||httpdns-ocloud.heytapmobile.com^$dnsrewrite=NOERROR;;
+||httpdns-push.heytapmobile.com^$dnsrewrite=NOERROR;;
+||httpdns.calorietech.com^$dnsrewrite=NOERROR;;
 ||httpdns.ocloud.oppomobile.com^$dnsrewrite=NOERROR;;
-||dns.weixin.qq.com^$dnsrewrite=NOERROR;;
-||dns.weixin.qq.com.cn^$dnsrewrite=NOERROR;;
-||httpdns.kg.qq.com^$dnsrewrite=NOERROR;;
+||httpdns.push.oppomobile.com^$dnsrewrite=NOERROR;;
 ||httpdns.ocloud.heytapmobi.com^$dnsrewrite=NOERROR;;
 ||httpdns.push.heytapmobi.com^$dnsrewrite=NOERROR;;
+||httpdns.yunxindns.com^$dnsrewrite=NOERROR;;
+||httpdns.danuoyi.tbcache.com^$dnsrewrite=NOERROR;;
+||httpdns.zybang.com^$dnsrewrite=NOERROR;;
+||httpdns.volces.com^$dnsrewrite=NOERROR;;
+||httpdns.kwd.inkuai.com^$dnsrewrite=NOERROR;;
+||httpdns.cctv.com^$dnsrewrite=NOERROR;;
+||yyapp-httpdns.gslb.yy.com^$dnsrewrite=NOERROR;;
+||union-httpdns.gslb.yy.com^$dnsrewrite=NOERROR;;
+||httpdns-v6.gslb.yy.com^$dnsrewrite=NOERROR;;
+||httpdns.gslb.yy.com^$dnsrewrite=NOERROR;;
+||httpdns.kg.qq.com^$dnsrewrite=NOERROR;;
+||httpdns.qcloud.com^$dnsrewrite=NOERROR;;
+||lofter.httpdns.c.163.com^$dnsrewrite=NOERROR;;
+||music.httpdns.c.163.com^$dnsrewrite=NOERROR;;
+||dns.weixin.qq.com^$dnsrewrite=NOERROR;;
+||dns.weixin.qq.com.cn^$dnsrewrite=NOERROR;;
 ||apidns.kwd.inkuai.com^$dnsrewrite=NOERROR;;
 ||dns.jd.com^$dnsrewrite=NOERROR;;
 ||dns.weibo.cn^$dnsrewrite=NOERROR;;
@@ -47,14 +63,7 @@
 ||dotserver.douyucdn.cn^$dnsrewrite=NOERROR;;
 ||httpdns.bilivideo.com^$dnsrewrite=NOERROR;;
 ||httpdns.browser.miui.com^$dnsrewrite=NOERROR;;
-||httpdns.cctv.com^$dnsrewrite=NOERROR;;
-||httpdns.danuoyi.tbcache.com^$dnsrewrite=NOERROR;;
-||httpdns.gslb.yy.com^$dnsrewrite=NOERROR;;
-||httpdns.kwd.inkuai.com^$dnsrewrite=NOERROR;;
 ||httpdns.pro^$dnsrewrite=NOERROR;;
-||httpdns.volcengineapi.com^$dnsrewrite=NOERROR;;
-||httpdns.yunxindns.com^$dnsrewrite=NOERROR;;
-||httpdns.zybang.com^$dnsrewrite=NOERROR;;
 ||ppio.cloud^$dnsrewrite=NOERROR;;
 ||yfp2p.net^$dnsrewrite=NOERROR;;
 ||yfcdn.net^$dnsrewrite=NOERROR;;
