@@ -2,7 +2,7 @@
 ! Title: Natsuki-List
 ! Description: Mixed AD rules for personal use.
 ! License: GPLv3
-! Last modified: 2026-06-20T22:00:04.279Z
+! Last modified: 2026-06-21T10:00:03.766Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -981,6 +981,7 @@
 ||1winpb.com^$dnsrewrite=NOERROR;;
 ||1wkg.cn^$dnsrewrite=NOERROR;;
 ||1wlg1691l49wnu.rest^$dnsrewrite=NOERROR;;
+||1xqe96f1z4m2zyv93.rest^$dnsrewrite=NOERROR;;
 ||1xwkhcsp3s5.vqsave.ommasign.com^$dnsrewrite=NOERROR;;
 ||1y55vfy87.com^$dnsrewrite=NOERROR;;
 ||1ykbpp1jx.com^$dnsrewrite=NOERROR;;
@@ -1996,6 +1997,7 @@
 ||48z7wyjdsywu.www.revistaferramental.com.br^$dnsrewrite=NOERROR;;
 ||4920b177cb.com^$dnsrewrite=NOERROR;;
 ||492733704185584515.academyforconsciousculture.com^$dnsrewrite=NOERROR;;
+||49a15e8b76.com^$dnsrewrite=NOERROR;;
 ||49cwxbn4ujhzw94927bpxno749.cfd^$dnsrewrite=NOERROR;;
 ||49dlt9myv.com^$dnsrewrite=NOERROR;;
 ||49fdfc7592.43a0e1ae69.com^$dnsrewrite=NOERROR;;
@@ -2166,6 +2168,7 @@
 ||500networks.com^$dnsrewrite=NOERROR;;
 ||500outenterprises.net^$dnsrewrite=NOERROR;;
 ||502ac4420f.com^$dnsrewrite=NOERROR;;
+||503astraica.com^$dnsrewrite=NOERROR;;
 ||50aqzb.com^$dnsrewrite=NOERROR;;
 ||50d46dda05.com^$dnsrewrite=NOERROR;;
 ||50deb82526.com^$dnsrewrite=NOERROR;;
@@ -2386,6 +2389,7 @@
 ||5kmp7.top^$dnsrewrite=NOERROR;;
 ||5kmqy60r7.com^$dnsrewrite=NOERROR;;
 ||5kov1f2o.xyz^$dnsrewrite=NOERROR;;
+||5krwtnpvgn2o3e.cfd^$dnsrewrite=NOERROR;;
 ||5kv261gjmq04c9.com^$dnsrewrite=NOERROR;;
 ||5leosgto.xyz^$dnsrewrite=NOERROR;;
 ||5lf5cujc5.com^$dnsrewrite=NOERROR;;
@@ -3017,6 +3021,7 @@
 ||7iwxojx1s.com^$dnsrewrite=NOERROR;;
 ||7j4tpio.com^$dnsrewrite=NOERROR;;
 ||7jf3kxi6bq.com^$dnsrewrite=NOERROR;;
+||7ji7xg8i9wjilx3v.rest^$dnsrewrite=NOERROR;;
 ||7jkzmbd.cn^$dnsrewrite=NOERROR;;
 ||7jn1iq4k45u4m5qzw4onwqzciv88j12vzm8j8mz.cfd^$dnsrewrite=NOERROR;;
 ||7jo52b7qpyz4y76.rest^$dnsrewrite=NOERROR;;
@@ -3273,6 +3278,7 @@
 ||8c814e6744.com^$dnsrewrite=NOERROR;;
 ||8cd92a765d.c09cc9353f.com^$dnsrewrite=NOERROR;;
 ||8chj9.com^$dnsrewrite=NOERROR;;
+||8cj70f905.com^$dnsrewrite=NOERROR;;
 ||8cjk04e7sb.com^$dnsrewrite=NOERROR;;
 ||8clkggoo62.com^$dnsrewrite=NOERROR;;
 ||8cnd.com^$dnsrewrite=NOERROR;;
@@ -3638,8 +3644,10 @@
 ||9pub.io^$dnsrewrite=NOERROR;;
 ||9pyn42z6d.com^$dnsrewrite=NOERROR;;
 ||9pzoz6taf.com^$dnsrewrite=NOERROR;;
+||9qngl95pczubw7flijw884trwv6fkz4qn.cfd^$dnsrewrite=NOERROR;;
 ||9qpbpbieol83xe11y.cfd^$dnsrewrite=NOERROR;;
 ||9r0v0go0el.com^$dnsrewrite=NOERROR;;
+||9rkh7nbaj.com^$dnsrewrite=NOERROR;;
 ||9s4l9nik.de^$dnsrewrite=NOERROR;;
 ||9soefyenw.com^$dnsrewrite=NOERROR;;
 ||9swovqnp52.com^$dnsrewrite=NOERROR;;
@@ -7029,6 +7037,7 @@
 ||activepoststale.com^$dnsrewrite=NOERROR;;
 ||actives.youku.com^$dnsrewrite=NOERROR;;
 ||activescheekercineol.qpon^$dnsrewrite=NOERROR;;
+||activinbirch.cyou^$dnsrewrite=NOERROR;;
 ||activity-flow.vtex.com^$dnsrewrite=NOERROR;;
 ||activity.browser.intl.miui.com^$dnsrewrite=NOERROR;;
 ||activity.fiverr.com^$dnsrewrite=NOERROR;;
@@ -7906,6 +7915,7 @@
 ||adcarem.co^$dnsrewrite=NOERROR;;
 ||adcash.com^$dnsrewrite=NOERROR;;
 ||adcast.deviantart.com^$dnsrewrite=NOERROR;;
+||adcbxmyjvlzrk.online^$dnsrewrite=NOERROR;;
 ||adcd7.com^$dnsrewrite=NOERROR;;
 ||adcdn.tencentmusic.com^$dnsrewrite=NOERROR;;
 ||adcdnx.com^$dnsrewrite=NOERROR;;
@@ -11529,6 +11539,7 @@
 ||afl.rozetka.com.ua^$dnsrewrite=NOERROR;;
 ||aflauntmusers.cyou^$dnsrewrite=NOERROR;;
 ||aflbjkkdckwcl.online^$dnsrewrite=NOERROR;;
+||aflhyxnzlyhvv.online^$dnsrewrite=NOERROR;;
 ||afloatpantplayer.com^$dnsrewrite=NOERROR;;
 ||afm01.com^$dnsrewrite=NOERROR;;
 ||afmdl.mundokeepers.com^$dnsrewrite=NOERROR;;
@@ -12372,6 +12383,7 @@
 ||akplvs.raja.fr^$dnsrewrite=NOERROR;;
 ||akq.akquinet.com^$dnsrewrite=NOERROR;;
 ||akr.usesfathom.com^$dnsrewrite=NOERROR;;
+||akrotertarsalpacked.cfd^$dnsrewrite=NOERROR;;
 ||aksb-a.akamaihd.net^$dnsrewrite=NOERROR;;
 ||aksfwtoeorsre.site^$dnsrewrite=NOERROR;;
 ||akspantat.in^$dnsrewrite=NOERROR;;
@@ -12663,6 +12675,7 @@
 ||algesisgutsier.cfd^$dnsrewrite=NOERROR;;
 ||algesismesse.cyou^$dnsrewrite=NOERROR;;
 ||algiersreests.com^$dnsrewrite=NOERROR;;
+||algkrqjbvnoib.online^$dnsrewrite=NOERROR;;
 ||algorithmtoenergy.net^$dnsrewrite=NOERROR;;
 ||algorix.co^$dnsrewrite=NOERROR;;
 ||algosit.com^$dnsrewrite=NOERROR;;
@@ -14934,6 +14947,7 @@
 ||animeamigos.org^$dnsrewrite=NOERROR;;
 ||animeloundry.com^$dnsrewrite=NOERROR;;
 ||animenippon.cc^$dnsrewrite=NOERROR;;
+||animeshoppers.com^$dnsrewrite=NOERROR;;
 ||animevideo.org^$dnsrewrite=NOERROR;;
 ||animits.com^$dnsrewrite=NOERROR;;
 ||animo.sto.wiki^$dnsrewrite=NOERROR;;
@@ -18533,6 +18547,7 @@
 ||ast.welt.de^$dnsrewrite=NOERROR;;
 ||ast2ya4ee8wtnax.com^$dnsrewrite=NOERROR;;
 ||astarsbuilding.com^$dnsrewrite=NOERROR;;
+||astartlycea.qpon^$dnsrewrite=NOERROR;;
 ||astasiabedels.cfd^$dnsrewrite=NOERROR;;
 ||astasiataversouthowl.qpon^$dnsrewrite=NOERROR;;
 ||astat.nikkei.co.jp^$dnsrewrite=NOERROR;;
@@ -19068,6 +19083,7 @@
 ||authenticated-origin.com^$dnsrewrite=NOERROR;;
 ||authenticchemistry.pro^$dnsrewrite=NOERROR;;
 ||authenticflirtatious.com^$dnsrewrite=NOERROR;;
+||author272.com^$dnsrewrite=NOERROR;;
 ||author279.net^$dnsrewrite=NOERROR;;
 ||authoritativegrandchildpause.com^$dnsrewrite=NOERROR;;
 ||authoritieswoundjoint.com^$dnsrewrite=NOERROR;;
@@ -19331,6 +19347,7 @@
 ||awin.gogoespana.com^$dnsrewrite=NOERROR;;
 ||awin.sevenline.com.br^$dnsrewrite=NOERROR;;
 ||awin1.com^$dnsrewrite=NOERROR;;
+||awinglyarianatupaiid.qpon^$dnsrewrite=NOERROR;;
 ||awistats.com^$dnsrewrite=NOERROR;;
 ||awitewmdutflhj.com^$dnsrewrite=NOERROR;;
 ||awiudbyqbpo.com^$dnsrewrite=NOERROR;;
@@ -19446,6 +19463,7 @@
 ||axjndvucr.com^$dnsrewrite=NOERROR;;
 ||axkabmod.in^$dnsrewrite=NOERROR;;
 ||axkcmb.mosigra.ru^$dnsrewrite=NOERROR;;
+||axkgummig.in^$dnsrewrite=NOERROR;;
 ||axkojdfhek.com^$dnsrewrite=NOERROR;;
 ||axkwyf.edinos.pl^$dnsrewrite=NOERROR;;
 ||axmdutfmwykby.space^$dnsrewrite=NOERROR;;
@@ -19689,6 +19707,7 @@
 ||azgftoymwpszx.online^$dnsrewrite=NOERROR;;
 ||azhmv.francesvalentine.com^$dnsrewrite=NOERROR;;
 ||azhobfzcwtxvj.website^$dnsrewrite=NOERROR;;
+||azimidetubbist.qpon^$dnsrewrite=NOERROR;;
 ||azjmp.com^$dnsrewrite=NOERROR;;
 ||azkcqs.com^$dnsrewrite=NOERROR;;
 ||azkmuprv.vroeg.nl^$dnsrewrite=NOERROR;;
@@ -20223,8 +20242,10 @@
 ||ballroomprudentauditorium.com^$dnsrewrite=NOERROR;;
 ||ballsack.org^$dnsrewrite=NOERROR;;
 ||ballsbanana.com^$dnsrewrite=NOERROR;;
+||ballsylushing.cfd^$dnsrewrite=NOERROR;;
 ||balmobligedelder.com^$dnsrewrite=NOERROR;;
 ||balmyrind.com^$dnsrewrite=NOERROR;;
+||balneasurest.qpon^$dnsrewrite=NOERROR;;
 ||baloe.xyz^$dnsrewrite=NOERROR;;
 ||balojkhwyw.in^$dnsrewrite=NOERROR;;
 ||balor-ghn.com^$dnsrewrite=NOERROR;;
@@ -20462,6 +20483,7 @@
 ||baqsjlfdaorou.space^$dnsrewrite=NOERROR;;
 ||baqtxlxxvtnwx.online^$dnsrewrite=NOERROR;;
 ||baqwo74y8.com^$dnsrewrite=NOERROR;;
+||baqzkiajgyidm.site^$dnsrewrite=NOERROR;;
 ||bar.baidu.com^$dnsrewrite=NOERROR;;
 ||baramije.net^$dnsrewrite=NOERROR;;
 ||barapolaran.shop^$dnsrewrite=NOERROR;;
@@ -20796,6 +20818,7 @@
 ||bcfgwi.skidxb.com^$dnsrewrite=NOERROR;;
 ||bcfhva.tradingpost.com.au^$dnsrewrite=NOERROR;;
 ||bcglkfu.cn^$dnsrewrite=NOERROR;;
+||bcgwbrnjyyknd.site^$dnsrewrite=NOERROR;;
 ||bcgwetajinklt.website^$dnsrewrite=NOERROR;;
 ||bcgzqzjkyjmfd.store^$dnsrewrite=NOERROR;;
 ||bcgzz.creationl.com^$dnsrewrite=NOERROR;;
@@ -21190,6 +21213,7 @@
 ||bedouseschema.cyou^$dnsrewrite=NOERROR;;
 ||bedoyobeltmen.cyou^$dnsrewrite=NOERROR;;
 ||bedrapiona.com^$dnsrewrite=NOERROR;;
+||bedridunfree.cyou^$dnsrewrite=NOERROR;;
 ||bedrop.marketing-tech.io^$dnsrewrite=NOERROR;;
 ||bedropveneers.cyou^$dnsrewrite=NOERROR;;
 ||bedsberry.com^$dnsrewrite=NOERROR;;
@@ -21842,6 +21866,7 @@
 ||bhhsg.superstarcarwashaz.com^$dnsrewrite=NOERROR;;
 ||bhhybt.icu^$dnsrewrite=NOERROR;;
 ||bhidhaerb.com^$dnsrewrite=NOERROR;;
+||bhievvhkokfxk.website^$dnsrewrite=NOERROR;;
 ||bhiohollun.com^$dnsrewrite=NOERROR;;
 ||bhistiehaverel.qpon^$dnsrewrite=NOERROR;;
 ||bhivpvsbhskzv.site^$dnsrewrite=NOERROR;;
@@ -22842,6 +22867,7 @@
 ||bmnbzt.pool-systems.de^$dnsrewrite=NOERROR;;
 ||bmnhbrjuekejj.site^$dnsrewrite=NOERROR;;
 ||bmnr.pw^$dnsrewrite=NOERROR;;
+||bmnuledgpd.com^$dnsrewrite=NOERROR;;
 ||bmnwmfvjmltrl.space^$dnsrewrite=NOERROR;;
 ||bmnzse.vitalabo.at^$dnsrewrite=NOERROR;;
 ||bmodjx.mgos.jp^$dnsrewrite=NOERROR;;
@@ -24010,6 +24036,7 @@
 ||briskchart.com^$dnsrewrite=NOERROR;;
 ||briskeagle.io^$dnsrewrite=NOERROR;;
 ||briskedge.net^$dnsrewrite=NOERROR;;
+||brisketleafboy.qpon^$dnsrewrite=NOERROR;;
 ||brisknessdebtordismiss.com^$dnsrewrite=NOERROR;;
 ||briskpelican.io^$dnsrewrite=NOERROR;;
 ||briskstorm.com^$dnsrewrite=NOERROR;;
@@ -24373,6 +24400,7 @@
 ||btloader.com^$dnsrewrite=NOERROR;;
 ||btlrerperqchl.site^$dnsrewrite=NOERROR;;
 ||btmean.cardosystems.com^$dnsrewrite=NOERROR;;
+||btmpxsnzu.com^$dnsrewrite=NOERROR;;
 ||btn.listonic.com^$dnsrewrite=NOERROR;;
 ||btn.onlylady.com^$dnsrewrite=NOERROR;;
 ||btn.pchome.net^$dnsrewrite=NOERROR;;
@@ -24863,6 +24891,7 @@
 ||bvewsgtwrbnaw.space^$dnsrewrite=NOERROR;;
 ||bvexmf.bigtv.ru^$dnsrewrite=NOERROR;;
 ||bvgaf.danielalexanderunderwear.com^$dnsrewrite=NOERROR;;
+||bvggicxfzizia.com^$dnsrewrite=NOERROR;;
 ||bvhxiysrndwbg.site^$dnsrewrite=NOERROR;;
 ||bvjzakwezmaqw.site^$dnsrewrite=NOERROR;;
 ||bvkes.karenplainshotel.com^$dnsrewrite=NOERROR;;
@@ -26395,6 +26424,7 @@
 ||carac-terres.fr^$dnsrewrite=NOERROR;;
 ||caracasweller.qpon^$dnsrewrite=NOERROR;;
 ||caraci.it^$dnsrewrite=NOERROR;;
+||carackdizdar.qpon^$dnsrewrite=NOERROR;;
 ||carafondonors.cfd^$dnsrewrite=NOERROR;;
 ||caraganaarborescenspendula.com^$dnsrewrite=NOERROR;;
 ||carambo.la^$dnsrewrite=NOERROR;;
@@ -27607,6 +27637,7 @@
 ||ce6b6837ab.com^$dnsrewrite=NOERROR;;
 ||ce71jubc2.com^$dnsrewrite=NOERROR;;
 ||ce9qb0h4v.com^$dnsrewrite=NOERROR;;
+||ceaecinzktzcm.online^$dnsrewrite=NOERROR;;
 ||ceakppokkbodo.store^$dnsrewrite=NOERROR;;
 ||ceakvbhesrlgd.site^$dnsrewrite=NOERROR;;
 ||ceasedaggravation.com^$dnsrewrite=NOERROR;;
@@ -27706,6 +27737,7 @@
 ||cenjobs.acspubs.org^$dnsrewrite=NOERROR;;
 ||cenmedia.acspubs.org^$dnsrewrite=NOERROR;;
 ||cennter.com^$dnsrewrite=NOERROR;;
+||cenont.xyz^$dnsrewrite=NOERROR;;
 ||cenotessnawle.com^$dnsrewrite=NOERROR;;
 ||cenpsn.creatework.jp^$dnsrewrite=NOERROR;;
 ||censesbefogsennett.qpon^$dnsrewrite=NOERROR;;
@@ -32217,6 +32249,7 @@
 ||coveteddutifulprescribe.com^$dnsrewrite=NOERROR;;
 ||covettunica.com^$dnsrewrite=NOERROR;;
 ||covex.it^$dnsrewrite=NOERROR;;
+||covhxwjqshexr.site^$dnsrewrite=NOERROR;;
 ||covid19-info.online^$dnsrewrite=NOERROR;;
 ||covisitmanolis.cyou^$dnsrewrite=NOERROR;;
 ||covivado.club^$dnsrewrite=NOERROR;;
@@ -33970,6 +34003,7 @@
 ||cymulereimply.qpon^$dnsrewrite=NOERROR;;
 ||cynem.xyz^$dnsrewrite=NOERROR;;
 ||cynicalcabaret.cyou^$dnsrewrite=NOERROR;;
+||cyniccurranekilij.cfd^$dnsrewrite=NOERROR;;
 ||cynodongirnel.com^$dnsrewrite=NOERROR;;
 ||cynodonrazzing.shop^$dnsrewrite=NOERROR;;
 ||cyntgd.anticipazionitv.it^$dnsrewrite=NOERROR;;
@@ -33981,6 +34015,7 @@
 ||cyq3noz.icu^$dnsrewrite=NOERROR;;
 ||cyq8vqq9s.com^$dnsrewrite=NOERROR;;
 ||cyqgk.greatgardenplants.com^$dnsrewrite=NOERROR;;
+||cyrola.net^$dnsrewrite=NOERROR;;
 ||cysclatowtdxq.website^$dnsrewrite=NOERROR;;
 ||cyseal.cyveillance.com^$dnsrewrite=NOERROR;;
 ||cysichvd.com^$dnsrewrite=NOERROR;;
@@ -35726,6 +35761,7 @@
 ||daailynews.com^$dnsrewrite=NOERROR;;
 ||daawv.cn^$dnsrewrite=NOERROR;;
 ||daawx.cn^$dnsrewrite=NOERROR;;
+||dabbedpipetskyhoot.cfd^$dnsrewrite=NOERROR;;
 ||dabblednonet.shop^$dnsrewrite=NOERROR;;
 ||dabblespaver.com^$dnsrewrite=NOERROR;;
 ||dable.io^$dnsrewrite=NOERROR;;
@@ -35818,6 +35854,7 @@
 ||dadsoks.com^$dnsrewrite=NOERROR;;
 ||dadwu.cn^$dnsrewrite=NOERROR;;
 ||dadzz.cn^$dnsrewrite=NOERROR;;
+||dae19a0c6f.com^$dnsrewrite=NOERROR;;
 ||daede.cn^$dnsrewrite=NOERROR;;
 ||daeez.vince.com^$dnsrewrite=NOERROR;;
 ||daeis.cn^$dnsrewrite=NOERROR;;
@@ -40584,6 +40621,7 @@
 ||dedicatedmedia.com^$dnsrewrite=NOERROR;;
 ||dedicateimaginesoil.com^$dnsrewrite=NOERROR;;
 ||dedicationageunfortunately.com^$dnsrewrite=NOERROR;;
+||dedquhjbegnjj.online^$dnsrewrite=NOERROR;;
 ||deductgreedyheadroom.com^$dnsrewrite=NOERROR;;
 ||deductpursue.com^$dnsrewrite=NOERROR;;
 ||deductsuggest.com^$dnsrewrite=NOERROR;;
@@ -41496,6 +41534,7 @@
 ||dhfbm.auratenewyork.com^$dnsrewrite=NOERROR;;
 ||dhgnzynmufgpc.site^$dnsrewrite=NOERROR;;
 ||dhhsz.wedgegame.com^$dnsrewrite=NOERROR;;
+||dhiaqmqrckxfn.website^$dnsrewrite=NOERROR;;
 ||dhjrvj.xyz^$dnsrewrite=NOERROR;;
 ||dhkipdsc.xyz^$dnsrewrite=NOERROR;;
 ||dhkyrl.discountmags.com^$dnsrewrite=NOERROR;;
@@ -41928,6 +41967,7 @@
 ||dikasomywnqww.website^$dnsrewrite=NOERROR;;
 ||dikcmpgwemomx.space^$dnsrewrite=NOERROR;;
 ||dikdiksbracker.shop^$dnsrewrite=NOERROR;;
+||dikdiksfelup.cfd^$dnsrewrite=NOERROR;;
 ||dikematou.com^$dnsrewrite=NOERROR;;
 ||dikeprotectorencyclopaedia.com^$dnsrewrite=NOERROR;;
 ||dikhsb.vividseats.com^$dnsrewrite=NOERROR;;
@@ -42001,6 +42041,7 @@
 ||dioboljizzen.cyou^$dnsrewrite=NOERROR;;
 ||diobolsuseable.cfd^$dnsrewrite=NOERROR;;
 ||diocgn.biltorvet.dk^$dnsrewrite=NOERROR;;
+||diocoelstentonsurer.qpon^$dnsrewrite=NOERROR;;
 ||diomedia.fr^$dnsrewrite=NOERROR;;
 ||dioptralbw.shop^$dnsrewrite=NOERROR;;
 ||dioqto.totaljobs.com^$dnsrewrite=NOERROR;;
@@ -42495,6 +42536,7 @@
 ||dkzerqre.ligula.se^$dnsrewrite=NOERROR;;
 ||dkzhulxzkxiin.website^$dnsrewrite=NOERROR;;
 ||dkzmu.scentiment.com^$dnsrewrite=NOERROR;;
+||dkzychtonrbwq.online^$dnsrewrite=NOERROR;;
 ||dl-dev.tablelist.com^$dnsrewrite=NOERROR;;
 ||dl-dev.tytocare.com^$dnsrewrite=NOERROR;;
 ||dl-qa.flipagram.com^$dnsrewrite=NOERROR;;
@@ -42587,6 +42629,7 @@
 ||dlesgc.kubara.jp^$dnsrewrite=NOERROR;;
 ||dlesjf.fightsite.hr^$dnsrewrite=NOERROR;;
 ||dlesjf.jutarnji.hr^$dnsrewrite=NOERROR;;
+||dleyckurnwamnnt.com^$dnsrewrite=NOERROR;;
 ||dlfugnpbqxseya.com^$dnsrewrite=NOERROR;;
 ||dlfzswefybaff.website^$dnsrewrite=NOERROR;;
 ||dlh1.hilton.com^$dnsrewrite=NOERROR;;
@@ -43489,6 +43532,7 @@
 ||dql2sdu63f1cw.cloudfront.net^$dnsrewrite=NOERROR;;
 ||dqnajb.icu^$dnsrewrite=NOERROR;;
 ||dqntra.home-to-go.ca^$dnsrewrite=NOERROR;;
+||dqoafivhpxpmo.site^$dnsrewrite=NOERROR;;
 ||dqorvlyh.com^$dnsrewrite=NOERROR;;
 ||dqpth.emilyley.com^$dnsrewrite=NOERROR;;
 ||dqqdbvsqatomy.space^$dnsrewrite=NOERROR;;
@@ -43736,6 +43780,7 @@
 ||drunkardlukecoverage.com^$dnsrewrite=NOERROR;;
 ||drupalcms-sgtm.1800gotjunk.com^$dnsrewrite=NOERROR;;
 ||drupalmetrics.ppg.apple.com^$dnsrewrite=NOERROR;;
+||drurybrief.qpon^$dnsrewrite=NOERROR;;
 ||drusescheneau.cfd^$dnsrewrite=NOERROR;;
 ||drutsylaylzqx.site^$dnsrewrite=NOERROR;;
 ||druzja.canmart.co.kr^$dnsrewrite=NOERROR;;
@@ -43810,6 +43855,7 @@
 ||dsbsmooohjuon.online^$dnsrewrite=NOERROR;;
 ||dsbt7.com^$dnsrewrite=NOERROR;;
 ||dsbtfg.com^$dnsrewrite=NOERROR;;
+||dsccgm.com^$dnsrewrite=NOERROR;;
 ||dscex7u1h4a9a.cloudfront.net^$dnsrewrite=NOERROR;;
 ||dscgz.bulletjournal.com^$dnsrewrite=NOERROR;;
 ||dscjbq.com^$dnsrewrite=NOERROR;;
@@ -43818,6 +43864,7 @@
 ||dscmih.com^$dnsrewrite=NOERROR;;
 ||dscmxt.com^$dnsrewrite=NOERROR;;
 ||dscsky.com^$dnsrewrite=NOERROR;;
+||dscsqe.com^$dnsrewrite=NOERROR;;
 ||dsctja.com^$dnsrewrite=NOERROR;;
 ||dscuug.com^$dnsrewrite=NOERROR;;
 ||dscykd.com^$dnsrewrite=NOERROR;;
@@ -43930,6 +43977,7 @@
 ||dsofhw.com^$dnsrewrite=NOERROR;;
 ||dsohrd.com^$dnsrewrite=NOERROR;;
 ||dsojyi.com^$dnsrewrite=NOERROR;;
+||dsopwk.com^$dnsrewrite=NOERROR;;
 ||dsoryt.com^$dnsrewrite=NOERROR;;
 ||dsoxih.com^$dnsrewrite=NOERROR;;
 ||dsoxjxin5jji.controlconceptsusa.com^$dnsrewrite=NOERROR;;
@@ -43998,6 +44046,7 @@
 ||dstnwp.com^$dnsrewrite=NOERROR;;
 ||dstqck.com^$dnsrewrite=NOERROR;;
 ||dstsjj.com^$dnsrewrite=NOERROR;;
+||dstvpc.com^$dnsrewrite=NOERROR;;
 ||dsuije.com^$dnsrewrite=NOERROR;;
 ||dsultra.com^$dnsrewrite=NOERROR;;
 ||dsumyd.com^$dnsrewrite=NOERROR;;
@@ -44242,6 +44291,7 @@
 ||duckieesotery.qpon^$dnsrewrite=NOERROR;;
 ||duckier.com^$dnsrewrite=NOERROR;;
 ||duckiesnotcheraramids.cfd^$dnsrewrite=NOERROR;;
+||duckieswonner.qpon^$dnsrewrite=NOERROR;;
 ||ducksintroduce.com^$dnsrewrite=NOERROR;;
 ||duckswillsmoochyou.com^$dnsrewrite=NOERROR;;
 ||ducoa.inthecompanyofdogs.com^$dnsrewrite=NOERROR;;
@@ -44328,6 +44378,7 @@
 ||dupab.spode.co.uk^$dnsrewrite=NOERROR;;
 ||dupcczkfziyd3.cloudfront.net^$dnsrewrite=NOERROR;;
 ||dupjgqxfwhan.com^$dnsrewrite=NOERROR;;
+||dupqiccmjruhb.online^$dnsrewrite=NOERROR;;
 ||dupwslkemelxq.space^$dnsrewrite=NOERROR;;
 ||duqamtr9ifv5t.cloudfront.net^$dnsrewrite=NOERROR;;
 ||duqelnlygawpx.com^$dnsrewrite=NOERROR;;
@@ -44465,6 +44516,7 @@
 ||dwalhkbrywnaw.site^$dnsrewrite=NOERROR;;
 ||dwamhdnllmhwu.site^$dnsrewrite=NOERROR;;
 ||dwarfscriptsfurnished.com^$dnsrewrite=NOERROR;;
+||dwarfybesaint.cfd^$dnsrewrite=NOERROR;;
 ||dwavamtujydry.store^$dnsrewrite=NOERROR;;
 ||dwbaazotho.com^$dnsrewrite=NOERROR;;
 ||dwbhepiqyzihi.space^$dnsrewrite=NOERROR;;
@@ -44992,6 +45044,7 @@
 ||e26fr9qb4m.com^$dnsrewrite=NOERROR;;
 ||e2a0595802.291cf7aa0b.com^$dnsrewrite=NOERROR;;
 ||e2a4ad946f.e7903973a7.com^$dnsrewrite=NOERROR;;
+||e2chx2ocwwmzuihl.rest^$dnsrewrite=NOERROR;;
 ||e2d8db7931.com^$dnsrewrite=NOERROR;;
 ||e2e.mashable.com^$dnsrewrite=NOERROR;;
 ||e2ertt.com^$dnsrewrite=NOERROR;;
@@ -45612,6 +45665,7 @@
 ||eckje.furking.com.au^$dnsrewrite=NOERROR;;
 ||ecknbonfiftad.website^$dnsrewrite=NOERROR;;
 ||eckosport.fr^$dnsrewrite=NOERROR;;
+||eckqjsgnqjvxk.space^$dnsrewrite=NOERROR;;
 ||eclick.360doc.com^$dnsrewrite=NOERROR;;
 ||eclick.baidu.cn^$dnsrewrite=NOERROR;;
 ||eclick.baidu.com^$dnsrewrite=NOERROR;;
@@ -45691,6 +45745,7 @@
 ||ecxtjijbl.com^$dnsrewrite=NOERROR;;
 ||ecxufxavldnpd.site^$dnsrewrite=NOERROR;;
 ||ecxwilwie.com^$dnsrewrite=NOERROR;;
+||ecxxpjohjadckcp.com^$dnsrewrite=NOERROR;;
 ||ecypazzlxorfg.online^$dnsrewrite=NOERROR;;
 ||ecyyrthlmidze.space^$dnsrewrite=NOERROR;;
 ||eczip.bee-enriched.eu^$dnsrewrite=NOERROR;;
@@ -45967,6 +46022,7 @@
 ||edxymyepu.com^$dnsrewrite=NOERROR;;
 ||edymvn.maxxism.co.kr^$dnsrewrite=NOERROR;;
 ||edzusegqavqik.store^$dnsrewrite=NOERROR;;
+||edzvubkgsokfg.online^$dnsrewrite=NOERROR;;
 ||ee.hjem.elinn.no^$dnsrewrite=NOERROR;;
 ||ee.impactextend.dk^$dnsrewrite=NOERROR;;
 ||ee.shixunwang.net^$dnsrewrite=NOERROR;;
@@ -46125,6 +46181,7 @@
 ||efmjvchffbmar.online^$dnsrewrite=NOERROR;;
 ||efmkmumjsby.com^$dnsrewrite=NOERROR;;
 ||efmwfw.bellcosme.com^$dnsrewrite=NOERROR;;
+||efoafzdcgnaxm.space^$dnsrewrite=NOERROR;;
 ||eforebuthehadsta.org^$dnsrewrite=NOERROR;;
 ||eforeukandthi.org^$dnsrewrite=NOERROR;;
 ||eforgotteddisgu.com^$dnsrewrite=NOERROR;;
@@ -46219,6 +46276,7 @@
 ||egvmdcbddgial.website^$dnsrewrite=NOERROR;;
 ||egvmppvtammxw.site^$dnsrewrite=NOERROR;;
 ||egxo.cn^$dnsrewrite=NOERROR;;
+||egxskengxrvlqjg.com^$dnsrewrite=NOERROR;;
 ||egyazegyben.com^$dnsrewrite=NOERROR;;
 ||egyenesen.com^$dnsrewrite=NOERROR;;
 ||egyptbullsavoury.com^$dnsrewrite=NOERROR;;
@@ -46888,6 +46946,7 @@
 ||elutessheavednude.cyou^$dnsrewrite=NOERROR;;
 ||elutokvgaclme.space^$dnsrewrite=NOERROR;;
 ||elviraawa.com^$dnsrewrite=NOERROR;;
+||elwebmx21.com^$dnsrewrite=NOERROR;;
 ||elwfmbqrgrlse.website^$dnsrewrite=NOERROR;;
 ||elwqyymubackl.com^$dnsrewrite=NOERROR;;
 ||elxfxkrslholc.online^$dnsrewrite=NOERROR;;
@@ -47935,6 +47994,7 @@
 ||entterto.com^$dnsrewrite=NOERROR;;
 ||entuduc.fr^$dnsrewrite=NOERROR;;
 ||entwithoughtsu.com^$dnsrewrite=NOERROR;;
+||entyfgzsuphfc.website^$dnsrewrite=NOERROR;;
 ||enueduringhere.info^$dnsrewrite=NOERROR;;
 ||enuredgaea.qpon^$dnsrewrite=NOERROR;;
 ||enurnytankers.cfd^$dnsrewrite=NOERROR;;
@@ -48022,6 +48082,7 @@
 ||eorjhfkkbeiras.com^$dnsrewrite=NOERROR;;
 ||eorkmgovqyswa.website^$dnsrewrite=NOERROR;;
 ||eosinbesouth.com^$dnsrewrite=NOERROR;;
+||eosopqdrtglpx.online^$dnsrewrite=NOERROR;;
 ||eostvofsqqsvi.site^$dnsrewrite=NOERROR;;
 ||eou.andresalata.com.br^$dnsrewrite=NOERROR;;
 ||eoucn.lovehoney.com^$dnsrewrite=NOERROR;;
@@ -48223,6 +48284,7 @@
 ||eqvioe.polihome.gr^$dnsrewrite=NOERROR;;
 ||eqvpao.bayard-jeunesse.com^$dnsrewrite=NOERROR;;
 ||eqwcbhamlelcw.site^$dnsrewrite=NOERROR;;
+||eqwnagjjynugw.space^$dnsrewrite=NOERROR;;
 ||eqworks.com^$dnsrewrite=NOERROR;;
 ||eqwpyenbgseua.space^$dnsrewrite=NOERROR;;
 ||eqwxjq.costacroisieres.fr^$dnsrewrite=NOERROR;;
@@ -48356,6 +48418,7 @@
 ||eruxjtbqruaep.site^$dnsrewrite=NOERROR;;
 ||ervtdgkyqbsdd.website^$dnsrewrite=NOERROR;;
 ||ervwyrdicmuvz.space^$dnsrewrite=NOERROR;;
+||erwknxujxxxbh.space^$dnsrewrite=NOERROR;;
 ||erwksojkxxlff.icu^$dnsrewrite=NOERROR;;
 ||erwtqfeyyhxgn.space^$dnsrewrite=NOERROR;;
 ||erxnqfhkkjkzz.site^$dnsrewrite=NOERROR;;
@@ -48421,6 +48484,7 @@
 ||esiipujna.com^$dnsrewrite=NOERROR;;
 ||esjoeuuzfgzsi.website^$dnsrewrite=NOERROR;;
 ||eskimi.com^$dnsrewrite=NOERROR;;
+||eskimoseqence.qpon^$dnsrewrite=NOERROR;;
 ||eskuaratrowth.cyou^$dnsrewrite=NOERROR;;
 ||eskwwmqptmmn.com^$dnsrewrite=NOERROR;;
 ||esl-gaming.com^$dnsrewrite=NOERROR;;
@@ -49500,6 +49564,7 @@
 ||ewstv.abcactionnews.com^$dnsrewrite=NOERROR;;
 ||ewstv.kypost.com^$dnsrewrite=NOERROR;;
 ||ewstv.wxyz.com^$dnsrewrite=NOERROR;;
+||ewtenavy.cfd^$dnsrewrite=NOERROR;;
 ||ewtivoqxdqmta.online^$dnsrewrite=NOERROR;;
 ||ewtyewj.com^$dnsrewrite=NOERROR;;
 ||ewu1nguhw.com^$dnsrewrite=NOERROR;;
@@ -49544,6 +49609,7 @@
 ||excellojapanel.org^$dnsrewrite=NOERROR;;
 ||exceptingpealstipulate.com^$dnsrewrite=NOERROR;;
 ||exceptionlog.kugou.com^$dnsrewrite=NOERROR;;
+||excerngab.cfd^$dnsrewrite=NOERROR;;
 ||excernquiffs.shop^$dnsrewrite=NOERROR;;
 ||exch.adaptable.nl^$dnsrewrite=NOERROR;;
 ||exch.bolderman.nl^$dnsrewrite=NOERROR;;
@@ -50138,6 +50204,7 @@
 ||f8d24e6505.com^$dnsrewrite=NOERROR;;
 ||f8ejqxp.cn^$dnsrewrite=NOERROR;;
 ||f8phvntohv.tpetry.me^$dnsrewrite=NOERROR;;
+||f8q4irok4twpemcqccbibitmt1b7bxlm2z.cfd^$dnsrewrite=NOERROR;;
 ||f8utp9hqco37j65p21km.cfd^$dnsrewrite=NOERROR;;
 ||f9043ed30f.61d7a302a1.com^$dnsrewrite=NOERROR;;
 ||f90c56ba8c.0645405ef4.com^$dnsrewrite=NOERROR;;
@@ -50160,6 +50227,7 @@
 ||fa.fpt.shop^$dnsrewrite=NOERROR;;
 ||fa5.dn4.it^$dnsrewrite=NOERROR;;
 ||fa618f17f4.f3e1df5eea.com^$dnsrewrite=NOERROR;;
+||fa7e69f2d7.com^$dnsrewrite=NOERROR;;
 ||fa85cadfb0.com^$dnsrewrite=NOERROR;;
 ||faaghupwithrd.space^$dnsrewrite=NOERROR;;
 ||faajmsrnw.com^$dnsrewrite=NOERROR;;
@@ -50322,6 +50390,7 @@
 ||faiverty-station.com^$dnsrewrite=NOERROR;;
 ||faiwax.golfhouse.de^$dnsrewrite=NOERROR;;
 ||fajdhuhdh.com^$dnsrewrite=NOERROR;;
+||fajgsfxol.com^$dnsrewrite=NOERROR;;
 ||fajkyofaxhdvo.website^$dnsrewrite=NOERROR;;
 ||fajnefanty.com^$dnsrewrite=NOERROR;;
 ||fake-square.com^$dnsrewrite=NOERROR;;
@@ -50594,6 +50663,7 @@
 ||fathomseo.com^$dnsrewrite=NOERROR;;
 ||fatigueboisterousrequisite.com^$dnsrewrite=NOERROR;;
 ||fatiguemataspiration.com^$dnsrewrite=NOERROR;;
+||fatiguerecipes.com^$dnsrewrite=NOERROR;;
 ||fatlikeepaulerigling.cyou^$dnsrewrite=NOERROR;;
 ||fatpop.net^$dnsrewrite=NOERROR;;
 ||fattenspopulum.com^$dnsrewrite=NOERROR;;
@@ -52026,6 +52096,7 @@
 ||fitchpmsa.com^$dnsrewrite=NOERROR;;
 ||fitges.oewabox.at^$dnsrewrite=NOERROR;;
 ||fitgirl-repacks-site.org^$dnsrewrite=NOERROR;;
+||fitgirl-repacks.vip^$dnsrewrite=NOERROR;;
 ||fitibeats-ss.checkoutera.com^$dnsrewrite=NOERROR;;
 ||fitmessage.com^$dnsrewrite=NOERROR;;
 ||fitness-for-ever.com^$dnsrewrite=NOERROR;;
@@ -52152,6 +52223,7 @@
 ||fkbbaseodqexz.site^$dnsrewrite=NOERROR;;
 ||fkblbasqbmxvx.space^$dnsrewrite=NOERROR;;
 ||fkbwtoopwg.com^$dnsrewrite=NOERROR;;
+||fkchuyuruhgfr.site^$dnsrewrite=NOERROR;;
 ||fkczwsqlpdokj.online^$dnsrewrite=NOERROR;;
 ||fkdaik.lightinthebox.com^$dnsrewrite=NOERROR;;
 ||fkdovrdesrbph.com^$dnsrewrite=NOERROR;;
@@ -52622,6 +52694,7 @@
 ||fmssly.pets4homes.co.uk^$dnsrewrite=NOERROR;;
 ||fmufpo.machicon.jp^$dnsrewrite=NOERROR;;
 ||fmuzu.nextlevelnails.pro^$dnsrewrite=NOERROR;;
+||fmvemhntgm.com^$dnsrewrite=NOERROR;;
 ||fmvrilqsboddt.space^$dnsrewrite=NOERROR;;
 ||fmwnkarqaughb.com^$dnsrewrite=NOERROR;;
 ||fmxypzzxwlzqg.website^$dnsrewrite=NOERROR;;
@@ -53385,6 +53458,7 @@
 ||fraalb.cebanatural.com^$dnsrewrite=NOERROR;;
 ||fraats.atome3d.com^$dnsrewrite=NOERROR;;
 ||frabwarrerbruxism.cfd^$dnsrewrite=NOERROR;;
+||fraction05.com^$dnsrewrite=NOERROR;;
 ||fractionfridgejudiciary.com^$dnsrewrite=NOERROR;;
 ||fractionsadly.com^$dnsrewrite=NOERROR;;
 ||fracture46.com^$dnsrewrite=NOERROR;;
@@ -53666,6 +53740,7 @@
 ||frittshumic.qpon^$dnsrewrite=NOERROR;;
 ||frivolousdrinkloss.com^$dnsrewrite=NOERROR;;
 ||friwft.vox.pl^$dnsrewrite=NOERROR;;
+||frixionhhd.cyou^$dnsrewrite=NOERROR;;
 ||frizzerflattie.shop^$dnsrewrite=NOERROR;;
 ||frizzymembership.pro^$dnsrewrite=NOERROR;;
 ||frizzyshocked.com^$dnsrewrite=NOERROR;;
@@ -54327,6 +54402,7 @@
 ||fxstyle.net^$dnsrewrite=NOERROR;;
 ||fxsupzozeialv.online^$dnsrewrite=NOERROR;;
 ||fxthjlhiybnyf.space^$dnsrewrite=NOERROR;;
+||fxtqgkzezrgbx.website^$dnsrewrite=NOERROR;;
 ||fxuenhhaucscs.online^$dnsrewrite=NOERROR;;
 ||fxuzrinlbacql.site^$dnsrewrite=NOERROR;;
 ||fxwlyddrjhupc.store^$dnsrewrite=NOERROR;;
@@ -54638,6 +54714,7 @@
 ||gaaekexcvdkur.site^$dnsrewrite=NOERROR;;
 ||gaafbi.fashiondays.hu^$dnsrewrite=NOERROR;;
 ||gaapi.hopemission.com^$dnsrewrite=NOERROR;;
+||gaatchhaybote.cfd^$dnsrewrite=NOERROR;;
 ||gabalcsix.in^$dnsrewrite=NOERROR;;
 ||gabbdnlzzwd.com^$dnsrewrite=NOERROR;;
 ||gabboun.cfd^$dnsrewrite=NOERROR;;
@@ -57883,6 +57960,7 @@
 ||googletraveladservices.com^$dnsrewrite=NOERROR;;
 ||googlevads-cn.com^$dnsrewrite=NOERROR;;
 ||gooierworrit.com^$dnsrewrite=NOERROR;;
+||gooiestingots.cyou^$dnsrewrite=NOERROR;;
 ||goolgueule.fr^$dnsrewrite=NOERROR;;
 ||gooloeboonpia.com^$dnsrewrite=NOERROR;;
 ||goomaphy.com^$dnsrewrite=NOERROR;;
@@ -62536,6 +62614,7 @@
 ||guterrat.gaius.app^$dnsrewrite=NOERROR;;
 ||guthealth.sa.com^$dnsrewrite=NOERROR;;
 ||gutickyum.com^$dnsrewrite=NOERROR;;
+||gutlessparsec.qpon^$dnsrewrite=NOERROR;;
 ||gutphewlittleoddly.com^$dnsrewrite=NOERROR;;
 ||guu0bfmpf5.com^$dnsrewrite=NOERROR;;
 ||guufxr.sdbullion.com^$dnsrewrite=NOERROR;;
@@ -63000,6 +63079,7 @@
 ||haginsensiblesupervise.com^$dnsrewrite=NOERROR;;
 ||hagnutrient.com^$dnsrewrite=NOERROR;;
 ||hagplpqxuqunw.store^$dnsrewrite=NOERROR;;
+||hagshipsturte.qpon^$dnsrewrite=NOERROR;;
 ||hagweedrecit.cyou^$dnsrewrite=NOERROR;;
 ||hagxcpwefvcey.site^$dnsrewrite=NOERROR;;
 ||hahozdcisj.in^$dnsrewrite=NOERROR;;
@@ -64007,6 +64087,7 @@
 ||hewanasagau.qpon^$dnsrewrite=NOERROR;;
 ||hewedzebulun.shop^$dnsrewrite=NOERROR;;
 ||hewgmewaonfqo.com^$dnsrewrite=NOERROR;;
+||hewholegunky.qpon^$dnsrewrite=NOERROR;;
 ||hewornpllzsau.site^$dnsrewrite=NOERROR;;
 ||hewotwzpqdugo.site^$dnsrewrite=NOERROR;;
 ||hewtkcgqmeyor.online^$dnsrewrite=NOERROR;;
@@ -64107,6 +64188,7 @@
 ||hgehse.site^$dnsrewrite=NOERROR;;
 ||hgf4.zanzicar.fr^$dnsrewrite=NOERROR;;
 ||hgf8hck.com^$dnsrewrite=NOERROR;;
+||hgficwcukmcax.online^$dnsrewrite=NOERROR;;
 ||hgfosqroovvpw.website^$dnsrewrite=NOERROR;;
 ||hggxww.megadumptiel.nl^$dnsrewrite=NOERROR;;
 ||hghaa.roxy.com^$dnsrewrite=NOERROR;;
@@ -64722,6 +64804,7 @@
 ||hktslxpqf.com^$dnsrewrite=NOERROR;;
 ||hkvbsazrdhhaq.online^$dnsrewrite=NOERROR;;
 ||hkvwug.beautyexperience.com^$dnsrewrite=NOERROR;;
+||hkwcgdabvkap.com^$dnsrewrite=NOERROR;;
 ||hkwrwuqlcpelq.site^$dnsrewrite=NOERROR;;
 ||hkxehfiynztiu.website^$dnsrewrite=NOERROR;;
 ||hkyjapok.in^$dnsrewrite=NOERROR;;
@@ -65682,6 +65765,7 @@
 ||htajztellrgmu.space^$dnsrewrite=NOERROR;;
 ||htakr.cos.com^$dnsrewrite=NOERROR;;
 ||htaufyjvn.com^$dnsrewrite=NOERROR;;
+||htbalvltadyeg.website^$dnsrewrite=NOERROR;;
 ||htc.oaken.com^$dnsrewrite=NOERROR;;
 ||htcgcwfh.xyz^$dnsrewrite=NOERROR;;
 ||htcnbx.odkarla.cz^$dnsrewrite=NOERROR;;
@@ -65804,7 +65888,6 @@
 ||hudiecaifu.com^$dnsrewrite=NOERROR;;
 ||hudmmxrbwnbwl.fun^$dnsrewrite=NOERROR;;
 ||hudong.pl.youku.com^$dnsrewrite=NOERROR;;
-||hudson-bay.com^$dnsrewrite=NOERROR;;
 ||hue11.com^$dnsrewrite=NOERROR;;
 ||hue2b.com^$dnsrewrite=NOERROR;;
 ||hueadsxml.com^$dnsrewrite=NOERROR;;
@@ -65849,11 +65932,13 @@
 ||huldeeforgoer.com^$dnsrewrite=NOERROR;;
 ||hullozaires.cfd^$dnsrewrite=NOERROR;;
 ||huloistendable.cfd^$dnsrewrite=NOERROR;;
+||humanachaque.cfd^$dnsrewrite=NOERROR;;
 ||humandemand.com^$dnsrewrite=NOERROR;;
 ||humanitydisciplinaryhire.com^$dnsrewrite=NOERROR;;
 ||humayun.meowmesh.com^$dnsrewrite=NOERROR;;
 ||humble-gap.com^$dnsrewrite=NOERROR;;
 ||humblebenefit.com^$dnsrewrite=NOERROR;;
+||humbledrovet.cfd^$dnsrewrite=NOERROR;;
 ||humblemotor.pro^$dnsrewrite=NOERROR;;
 ||humblerenamour.com^$dnsrewrite=NOERROR;;
 ||humblestress.com^$dnsrewrite=NOERROR;;
@@ -66156,6 +66241,7 @@
 ||hyb.werkholm.pl^$dnsrewrite=NOERROR;;
 ||hybrid.ai^$dnsrewrite=NOERROR;;
 ||hybrid.miniapp.taobao.com^$dnsrewrite=NOERROR;;
+||hybridaattilaunlobed.cyou^$dnsrewrite=NOERROR;;
 ||hybridburst.com^$dnsrewrite=NOERROR;;
 ||hybuxute.com^$dnsrewrite=NOERROR;;
 ||hycantyoubelik.com^$dnsrewrite=NOERROR;;
@@ -66167,6 +66253,7 @@
 ||hydraconcept.com^$dnsrewrite=NOERROR;;
 ||hydraecheskey.cfd^$dnsrewrite=NOERROR;;
 ||hydramedia.com^$dnsrewrite=NOERROR;;
+||hydrionboult.qpon^$dnsrewrite=NOERROR;;
 ||hydrlix750.com^$dnsrewrite=NOERROR;;
 ||hydro-ma-proxy.akamaized.net^$dnsrewrite=NOERROR;;
 ||hydrocarbon77.top^$dnsrewrite=NOERROR;;
@@ -66754,6 +66841,7 @@
 ||id451295.com^$dnsrewrite=NOERROR;;
 ||id5-sync.com^$dnsrewrite=NOERROR;;
 ||id6589.com^$dnsrewrite=NOERROR;;
+||idaawmkgomnnf.site^$dnsrewrite=NOERROR;;
 ||idat.production.ippen.space^$dnsrewrite=NOERROR;;
 ||idavmk1276.com^$dnsrewrite=NOERROR;;
 ||idawziv.cn^$dnsrewrite=NOERROR;;
@@ -67174,6 +67262,7 @@
 ||iigirlslove.com^$dnsrewrite=NOERROR;;
 ||iigmlx.com^$dnsrewrite=NOERROR;;
 ||iihmb.trtltravel.com^$dnsrewrite=NOERROR;;
+||iiigvrislhm.com^$dnsrewrite=NOERROR;;
 ||iiiop.fishercollective.com^$dnsrewrite=NOERROR;;
 ||iiiqdhbkppkxw.space^$dnsrewrite=NOERROR;;
 ||iijls.com^$dnsrewrite=NOERROR;;
@@ -68634,6 +68723,7 @@
 ||indulgencemolly.com^$dnsrewrite=NOERROR;;
 ||indulgenceslangringer.com^$dnsrewrite=NOERROR;;
 ||indulinrayful.com^$dnsrewrite=NOERROR;;
+||indultsoupon.qpon^$dnsrewrite=NOERROR;;
 ||indumag.oewabox.at^$dnsrewrite=NOERROR;;
 ||indusacta.com^$dnsrewrite=NOERROR;;
 ||industower.org^$dnsrewrite=NOERROR;;
@@ -69797,6 +69887,7 @@
 ||inklessaughy.qpon^$dnsrewrite=NOERROR;;
 ||inklineglobal.com^$dnsrewrite=NOERROR;;
 ||inklinkor.com^$dnsrewrite=NOERROR;;
+||inkmaniodid.cyou^$dnsrewrite=NOERROR;;
 ||inknitstyletcoaled.cfd^$dnsrewrite=NOERROR;;
 ||inkoleasing.ru^$dnsrewrite=NOERROR;;
 ||inkont.xyz^$dnsrewrite=NOERROR;;
@@ -70531,6 +70622,7 @@
 ||iobvmtx.xyz^$dnsrewrite=NOERROR;;
 ||iobyeq.dallmayr-versand.de^$dnsrewrite=NOERROR;;
 ||ioca1.eulerian.io^$dnsrewrite=NOERROR;;
+||iodesophia.qpon^$dnsrewrite=NOERROR;;
 ||iodia.avironactive.com^$dnsrewrite=NOERROR;;
 ||iodideeyebath.cam^$dnsrewrite=NOERROR;;
 ||iodolruddock.com^$dnsrewrite=NOERROR;;
@@ -70807,6 +70899,7 @@
 ||iqsswq.icu^$dnsrewrite=NOERROR;;
 ||iqtest365.online^$dnsrewrite=NOERROR;;
 ||iqtvvevbydoat.online^$dnsrewrite=NOERROR;;
+||iqtwobocorvscc.com^$dnsrewrite=NOERROR;;
 ||iqtxpquo.seacastle.se^$dnsrewrite=NOERROR;;
 ||iquirc.motionrc.com^$dnsrewrite=NOERROR;;
 ||iqvhap.globalrose.com^$dnsrewrite=NOERROR;;
@@ -71014,6 +71107,7 @@
 ||isolatedcompliments.com^$dnsrewrite=NOERROR;;
 ||isolatedfrom82.com^$dnsrewrite=NOERROR;;
 ||isolatedovercomepasted.com^$dnsrewrite=NOERROR;;
+||isomeryhexaxon.shop^$dnsrewrite=NOERROR;;
 ||isonomyobscuracrocein.qpon^$dnsrewrite=NOERROR;;
 ||isonomyreuel.cfd^$dnsrewrite=NOERROR;;
 ||isoporrhizina.qpon^$dnsrewrite=NOERROR;;
@@ -71336,6 +71430,7 @@
 ||iwpkhm.re-store.ru^$dnsrewrite=NOERROR;;
 ||iwpneu.eneba.com^$dnsrewrite=NOERROR;;
 ||iwpuegtgwmxon.space^$dnsrewrite=NOERROR;;
+||iwqbcvhukaao.com^$dnsrewrite=NOERROR;;
 ||iwqgwgcbrwukf.site^$dnsrewrite=NOERROR;;
 ||iwqx.cn^$dnsrewrite=NOERROR;;
 ||iws2.io.naver.com^$dnsrewrite=NOERROR;;
@@ -71772,6 +71867,7 @@
 ||jazzyescrod.qpon^$dnsrewrite=NOERROR;;
 ||jb.dianshu119.com^$dnsrewrite=NOERROR;;
 ||jb.ecar168.cn^$dnsrewrite=NOERROR;;
+||jba33y5xx.com^$dnsrewrite=NOERROR;;
 ||jbalnemwgxsbp.space^$dnsrewrite=NOERROR;;
 ||jbanv.etrendygo.com^$dnsrewrite=NOERROR;;
 ||jbaqavqkrovyy.top^$dnsrewrite=NOERROR;;
@@ -71982,6 +72078,7 @@
 ||jdmzkxry.com^$dnsrewrite=NOERROR;;
 ||jdn.blueb.ge^$dnsrewrite=NOERROR;;
 ||jdnlynb.cn^$dnsrewrite=NOERROR;;
+||jdnvbvykmmxky.website^$dnsrewrite=NOERROR;;
 ||jdojxbbmftvga.online^$dnsrewrite=NOERROR;;
 ||jdookslktoafb.website^$dnsrewrite=NOERROR;;
 ||jdoqocy.com^$dnsrewrite=NOERROR;;
@@ -73603,6 +73700,7 @@
 ||juswsuqwbegra.site^$dnsrewrite=NOERROR;;
 ||jut6i8iz3ozwejbztopqmbo2bih.rest^$dnsrewrite=NOERROR;;
 ||juthprkdpjhyx.com^$dnsrewrite=NOERROR;;
+||juttiesvicing.cyou^$dnsrewrite=NOERROR;;
 ||juttkxcxflkao.space^$dnsrewrite=NOERROR;;
 ||juttonight.com^$dnsrewrite=NOERROR;;
 ||jutwzssh.icu^$dnsrewrite=NOERROR;;
@@ -73832,6 +73930,7 @@
 ||jyuicr.codemonkey.com^$dnsrewrite=NOERROR;;
 ||jyumzv.dcshoes.com.br^$dnsrewrite=NOERROR;;
 ||jyupgi.eurostarshotels.co.uk^$dnsrewrite=NOERROR;;
+||jyusbdfliaqoe.online^$dnsrewrite=NOERROR;;
 ||jyvith.xyz^$dnsrewrite=NOERROR;;
 ||jyvkwqjremmly.top^$dnsrewrite=NOERROR;;
 ||jyvkwqjremqkz.top^$dnsrewrite=NOERROR;;
@@ -74088,6 +74187,7 @@
 ||kantismcalid.qpon^$dnsrewrite=NOERROR;;
 ||kantoexuziiv.com^$dnsrewrite=NOERROR;;
 ||kanwby.com^$dnsrewrite=NOERROR;;
+||kanwnawayxyza.space^$dnsrewrite=NOERROR;;
 ||kanzlei-borchers.de^$dnsrewrite=NOERROR;;
 ||kaocko.swaglift.com^$dnsrewrite=NOERROR;;
 ||kaolineunheler.shop^$dnsrewrite=NOERROR;;
@@ -74293,6 +74393,7 @@
 ||kcsnecwd.com^$dnsrewrite=NOERROR;;
 ||kctag.net^$dnsrewrite=NOERROR;;
 ||kctkctag.overnayt.com^$dnsrewrite=NOERROR;;
+||kctmxmkmmvwbh.space^$dnsrewrite=NOERROR;;
 ||kctnuy.downsizing.com.au^$dnsrewrite=NOERROR;;
 ||kctwqu.vypredaj-zlavy.sk^$dnsrewrite=NOERROR;;
 ||kcuxobcjehjxgsh.com^$dnsrewrite=NOERROR;;
@@ -74572,6 +74673,7 @@
 ||kg3p4c3r6541nq.cfd^$dnsrewrite=NOERROR;;
 ||kga9szxosa.appspot.com^$dnsrewrite=NOERROR;;
 ||kgaviuu42.com^$dnsrewrite=NOERROR;;
+||kgbfawlsumiyn.space^$dnsrewrite=NOERROR;;
 ||kgbgcuabndbjw.store^$dnsrewrite=NOERROR;;
 ||kgbokc.masrefacciones.mx^$dnsrewrite=NOERROR;;
 ||kgcqegbyqnrnj.space^$dnsrewrite=NOERROR;;
@@ -75333,6 +75435,7 @@
 ||knrgt.petscy.com^$dnsrewrite=NOERROR;;
 ||knrhwhkxytfiu.com^$dnsrewrite=NOERROR;;
 ||knsoknmyvyhab.website^$dnsrewrite=NOERROR;;
+||knsspkbhpqoop.site^$dnsrewrite=NOERROR;;
 ||knswsycgxbhdk.space^$dnsrewrite=NOERROR;;
 ||knucklebelliedpawed.qpon^$dnsrewrite=NOERROR;;
 ||knucklemonthsedifice.com^$dnsrewrite=NOERROR;;
@@ -75519,6 +75622,7 @@
 ||kppgz.grandinroad.com^$dnsrewrite=NOERROR;;
 ||kppqi.pavlok.com^$dnsrewrite=NOERROR;;
 ||kpqgh.directmeds.com^$dnsrewrite=NOERROR;;
+||kpqlrfyy.xyz^$dnsrewrite=NOERROR;;
 ||kpqoiewdruvvr.website^$dnsrewrite=NOERROR;;
 ||kpqyxuicnazqf.website^$dnsrewrite=NOERROR;;
 ||kprdkhhtveo.com^$dnsrewrite=NOERROR;;
@@ -75536,6 +75640,7 @@
 ||kpwvntvpoksyw.website^$dnsrewrite=NOERROR;;
 ||kpxpsuesitcnc.space^$dnsrewrite=NOERROR;;
 ||kpylgm.lumas.de^$dnsrewrite=NOERROR;;
+||kq6x5tgzzxtq1l1flgmr3ln.cfd^$dnsrewrite=NOERROR;;
 ||kqaqdwukbmi.com^$dnsrewrite=NOERROR;;
 ||kqauptdrdiyyp.space^$dnsrewrite=NOERROR;;
 ||kqawipdwetqqd.space^$dnsrewrite=NOERROR;;
@@ -75581,6 +75686,7 @@
 ||kqwvqvapfvajp.online^$dnsrewrite=NOERROR;;
 ||kqxrw.newenglishteas.com^$dnsrewrite=NOERROR;;
 ||kqzbph.zerohedge.com^$dnsrewrite=NOERROR;;
+||kqzcnznyaklql.space^$dnsrewrite=NOERROR;;
 ||kqzyfj.com^$dnsrewrite=NOERROR;;
 ||kr-go.experian.com^$dnsrewrite=NOERROR;;
 ||kr.sampleperson.site^$dnsrewrite=NOERROR;;
@@ -75699,6 +75805,7 @@
 ||ksdib.tartecosmetics.com^$dnsrewrite=NOERROR;;
 ||ksdsjfd.adblock-for-y.com^$dnsrewrite=NOERROR;;
 ||ksehinkitw.hair^$dnsrewrite=NOERROR;;
+||kselthloahgxh.space^$dnsrewrite=NOERROR;;
 ||kseoxmeqxbhpi.space^$dnsrewrite=NOERROR;;
 ||kseseemyresum.org^$dnsrewrite=NOERROR;;
 ||ksewqpiyv.com.es^$dnsrewrite=NOERROR;;
@@ -77216,6 +77323,7 @@
 ||leb-app.diasporaid.com^$dnsrewrite=NOERROR;;
 ||lebbekperjury.com^$dnsrewrite=NOERROR;;
 ||lebbfksrknrex.website^$dnsrewrite=NOERROR;;
+||lebenscrimeamarxist.cfd^$dnsrewrite=NOERROR;;
 ||lebiutacsvaat.website^$dnsrewrite=NOERROR;;
 ||leboncoan.fr^$dnsrewrite=NOERROR;;
 ||lebopncoin.fr^$dnsrewrite=NOERROR;;
@@ -84190,6 +84298,7 @@
 ||lodgeastronautadore.com^$dnsrewrite=NOERROR;;
 ||lodgecachou.cyou^$dnsrewrite=NOERROR;;
 ||lodgerestless.com^$dnsrewrite=NOERROR;;
+||lodhissmliqjs.website^$dnsrewrite=NOERROR;;
 ||lodipq3zb.com^$dnsrewrite=NOERROR;;
 ||lodjo.electrifyexpo.com^$dnsrewrite=NOERROR;;
 ||lodlww.carcon.co.jp^$dnsrewrite=NOERROR;;
@@ -84909,6 +85018,7 @@
 ||loltrain.com^$dnsrewrite=NOERROR;;
 ||lolvfndt.com^$dnsrewrite=NOERROR;;
 ||lomark.cn^$dnsrewrite=NOERROR;;
+||lomfaggbuokew.site^$dnsrewrite=NOERROR;;
 ||lominglaes.com^$dnsrewrite=NOERROR;;
 ||lonaci.fr^$dnsrewrite=NOERROR;;
 ||lonarzelq.com^$dnsrewrite=NOERROR;;
@@ -85716,6 +85826,7 @@
 ||luckypushh.com^$dnsrewrite=NOERROR;;
 ||luckyshelf.com^$dnsrewrite=NOERROR;;
 ||lucrinearraign.com^$dnsrewrite=NOERROR;;
+||lucysstyle.com^$dnsrewrite=NOERROR;;
 ||ludhs.walkerandhunt.com^$dnsrewrite=NOERROR;;
 ||ludicrousarch.com^$dnsrewrite=NOERROR;;
 ||ludicrousavalancheherald.com^$dnsrewrite=NOERROR;;
@@ -86779,6 +86890,7 @@
 ||maisonvalentina.fr^$dnsrewrite=NOERROR;;
 ||maisykejwe.com^$dnsrewrite=NOERROR;;
 ||maithigloab.net^$dnsrewrite=NOERROR;;
+||maiusfan.cfd^$dnsrewrite=NOERROR;;
 ||maiwbisqgsdzn.website^$dnsrewrite=NOERROR;;
 ||majaguadatedly.shop^$dnsrewrite=NOERROR;;
 ||majasidyl.shop^$dnsrewrite=NOERROR;;
@@ -88873,6 +88985,7 @@
 ||marmot.hippiemodernism.com^$dnsrewrite=NOERROR;;
 ||marmot.jfontana.fr^$dnsrewrite=NOERROR;;
 ||marphezis.com^$dnsrewrite=NOERROR;;
+||marramlaevo.qpon^$dnsrewrite=NOERROR;;
 ||married-divide.pro^$dnsrewrite=NOERROR;;
 ||married-ring.com^$dnsrewrite=NOERROR;;
 ||marriedbelief.com^$dnsrewrite=NOERROR;;
@@ -94075,6 +94188,7 @@
 ||moeskin.com^$dnsrewrite=NOERROR;;
 ||moevideo.biz^$dnsrewrite=NOERROR;;
 ||mof78ole44mm85fn.cfd^$dnsrewrite=NOERROR;;
+||moffhalberd.cyou^$dnsrewrite=NOERROR;;
 ||mofox.com^$dnsrewrite=NOERROR;;
 ||moghulnash.com^$dnsrewrite=NOERROR;;
 ||mogointeractive.com^$dnsrewrite=NOERROR;;
@@ -94310,6 +94424,7 @@
 ||montpalatin.handicap.fr^$dnsrewrite=NOERROR;;
 ||montpdp.top^$dnsrewrite=NOERROR;;
 ||montrealgazette.stats.com^$dnsrewrite=NOERROR;;
+||montytipper.cfd^$dnsrewrite=NOERROR;;
 ||monu.delivery^$dnsrewrite=NOERROR;;
 ||monumental-equipment.com^$dnsrewrite=NOERROR;;
 ||monumental-profession.pro^$dnsrewrite=NOERROR;;
@@ -94790,6 +94905,7 @@
 ||mrdcsmtcstk.merodacosmetics.nl^$dnsrewrite=NOERROR;;
 ||mrdmca.com^$dnsrewrite=NOERROR;;
 ||mrdmjqbjgty.com^$dnsrewrite=NOERROR;;
+||mrdxkdkoqv.com^$dnsrewrite=NOERROR;;
 ||mrdzuibek.com^$dnsrewrite=NOERROR;;
 ||mre6.destinia.ma^$dnsrewrite=NOERROR;;
 ||mrebfofligkfs.site^$dnsrewrite=NOERROR;;
@@ -95007,6 +95123,7 @@
 ||mstmsbz.com^$dnsrewrite=NOERROR;;
 ||mstorer.net^$dnsrewrite=NOERROR;;
 ||msub.mmail.northeast.aaa.com^$dnsrewrite=NOERROR;;
+||msubozcwbyuqt.website^$dnsrewrite=NOERROR;;
 ||msurc.armygearus.com^$dnsrewrite=NOERROR;;
 ||msvdmrahbkgwb.site^$dnsrewrite=NOERROR;;
 ||msvdxefqskyia.online^$dnsrewrite=NOERROR;;
@@ -95855,6 +95972,7 @@
 ||mychoicerewards.com^$dnsrewrite=NOERROR;;
 ||mycnal.fr^$dnsrewrite=NOERROR;;
 ||mycomm2.hackensackmeridian.org^$dnsrewrite=NOERROR;;
+||mycoseschemer.qpon^$dnsrewrite=NOERROR;;
 ||mycounter.ua^$dnsrewrite=NOERROR;;
 ||mycvxzkw.com^$dnsrewrite=NOERROR;;
 ||mydas.mobi^$dnsrewrite=NOERROR;;
@@ -95953,6 +96071,7 @@
 ||myrogers-dashboard-signin.net^$dnsrewrite=NOERROR;;
 ||myroledance.com^$dnsrewrite=NOERROR;;
 ||myrrhbehorn.com^$dnsrewrite=NOERROR;;
+||myrtalcaliver.qpon^$dnsrewrite=NOERROR;;
 ||myrtalptinus.shop^$dnsrewrite=NOERROR;;
 ||myrtthirstsolivile.cyou^$dnsrewrite=NOERROR;;
 ||mysagagame.com^$dnsrewrite=NOERROR;;
@@ -96461,7 +96580,6 @@
 ||navi38.ru^$dnsrewrite=NOERROR;;
 ||navi39.ru^$dnsrewrite=NOERROR;;
 ||navi4.com^$dnsrewrite=NOERROR;;
-||navi42.ru^$dnsrewrite=NOERROR;;
 ||navi5.com^$dnsrewrite=NOERROR;;
 ||navi52.com^$dnsrewrite=NOERROR;;
 ||navi53.com^$dnsrewrite=NOERROR;;
@@ -96842,6 +96960,7 @@
 ||nematicmosul.com^$dnsrewrite=NOERROR;;
 ||nemeaowmeffis.online^$dnsrewrite=NOERROR;;
 ||nemppa.com^$dnsrewrite=NOERROR;;
+||nenaqnyhjfvbr.site^$dnsrewrite=NOERROR;;
 ||nend.net^$dnsrewrite=NOERROR;;
 ||nenlnl.icu^$dnsrewrite=NOERROR;;
 ||nenobfwtzuiuj.space^$dnsrewrite=NOERROR;;
@@ -97728,6 +97847,7 @@
 ||niftyhospital.com^$dnsrewrite=NOERROR;;
 ||niftyjelly.com^$dnsrewrite=NOERROR;;
 ||nifyeldc.top^$dnsrewrite=NOERROR;;
+||nigelcrammer.cfd^$dnsrewrite=NOERROR;;
 ||nigelmidnightrappers.com^$dnsrewrite=NOERROR;;
 ||nighedacutestfoxie.cfd^$dnsrewrite=NOERROR;;
 ||nightbesties.com^$dnsrewrite=NOERROR;;
@@ -97744,6 +97864,7 @@
 ||niimtlaqdakoma.com^$dnsrewrite=NOERROR;;
 ||niizcmfjrykzm.space^$dnsrewrite=NOERROR;;
 ||nijanghwya.com^$dnsrewrite=NOERROR;;
+||nijesgmpfpr.com^$dnsrewrite=NOERROR;;
 ||nijfopycwmazb.site^$dnsrewrite=NOERROR;;
 ||nijlfx.icu^$dnsrewrite=NOERROR;;
 ||nijlqrhkarnbq.online^$dnsrewrite=NOERROR;;
@@ -98286,6 +98407,7 @@
 ||nocturngrayish.cyou^$dnsrewrite=NOERROR;;
 ||nocvob.yellohvillage.fr^$dnsrewrite=NOERROR;;
 ||nod.caracda.de^$dnsrewrite=NOERROR;;
+||nodallyaushar.cyou^$dnsrewrite=NOERROR;;
 ||noddlesmuvule.qpon^$dnsrewrite=NOERROR;;
 ||node.aibeacon.jp^$dnsrewrite=NOERROR;;
 ||node.azur-online.de^$dnsrewrite=NOERROR;;
@@ -98327,6 +98449,7 @@
 ||nohcff.xyz^$dnsrewrite=NOERROR;;
 ||nohogrci.com^$dnsrewrite=NOERROR;;
 ||nohowsankhya.com^$dnsrewrite=NOERROR;;
+||nohpoyimrozbi.space^$dnsrewrite=NOERROR;;
 ||noirepatin.com^$dnsrewrite=NOERROR;;
 ||noiselessplough.com^$dnsrewrite=NOERROR;;
 ||noisesperusemotel.com^$dnsrewrite=NOERROR;;
@@ -98369,6 +98492,7 @@
 ||nonethelessaugustcategory.com^$dnsrewrite=NOERROR;;
 ||nonfatmolochs.com^$dnsrewrite=NOERROR;;
 ||nonfictionspatterrind.com^$dnsrewrite=NOERROR;;
+||nonformacheer.cfd^$dnsrewrite=NOERROR;;
 ||nonjuryaflare.cfd^$dnsrewrite=NOERROR;;
 ||nonofy.com^$dnsrewrite=NOERROR;;
 ||nonpareilanticipatedintention.com^$dnsrewrite=NOERROR;;
@@ -98980,6 +99104,7 @@
 ||ntbzm2ulfwbuju6khj7.rest^$dnsrewrite=NOERROR;;
 ||ntcfrzpzmeite.site^$dnsrewrite=NOERROR;;
 ||ntdcfmssnmx.com^$dnsrewrite=NOERROR;;
+||ntdzgouryfjcp.site^$dnsrewrite=NOERROR;;
 ||ntegrodvtu.com^$dnsrewrite=NOERROR;;
 ||ntepadkozezji.online^$dnsrewrite=NOERROR;;
 ||nteqanqudxl.com^$dnsrewrite=NOERROR;;
@@ -99150,6 +99275,7 @@
 ||nurba.scotlandshop.com^$dnsrewrite=NOERROR;;
 ||nurbljwhtkhhs.space^$dnsrewrite=NOERROR;;
 ||nurij.fathead.com^$dnsrewrite=NOERROR;;
+||nurlxlhketmce.space^$dnsrewrite=NOERROR;;
 ||nurobi.info^$dnsrewrite=NOERROR;;
 ||nurse.fastaff.com^$dnsrewrite=NOERROR;;
 ||nurse.trustaff.com^$dnsrewrite=NOERROR;;
@@ -99740,6 +99866,7 @@
 ||oasis.zmh.zope.net^$dnsrewrite=NOERROR;;
 ||oasismarketing.oasisadvantage.com^$dnsrewrite=NOERROR;;
 ||oassis.zmh.zope.com^$dnsrewrite=NOERROR;;
+||oassysjwizxgd.space^$dnsrewrite=NOERROR;;
 ||oathannually.com^$dnsrewrite=NOERROR;;
 ||oatmealmontleymontleyremove.com^$dnsrewrite=NOERROR;;
 ||oavgoe.irs.jp^$dnsrewrite=NOERROR;;
@@ -100127,6 +100254,7 @@
 ||oebhaxocru.com^$dnsrewrite=NOERROR;;
 ||oechestra.fr^$dnsrewrite=NOERROR;;
 ||oeclu.craftedelements.com^$dnsrewrite=NOERROR;;
+||oecygvpkp.com^$dnsrewrite=NOERROR;;
 ||oedazrjbdxygw.site^$dnsrewrite=NOERROR;;
 ||oedbml.collage-shop.jp^$dnsrewrite=NOERROR;;
 ||oedlmz.underarmour.it^$dnsrewrite=NOERROR;;
@@ -102031,6 +102159,7 @@
 ||orgbackups.com^$dnsrewrite=NOERROR;;
 ||orgfh.getspeks.com^$dnsrewrite=NOERROR;;
 ||orgieslostorage.qpon^$dnsrewrite=NOERROR;;
+||orgjqhznrwvr.com^$dnsrewrite=NOERROR;;
 ||orgmdx.systemthree.com^$dnsrewrite=NOERROR;;
 ||orgqogld.motusinvestmentgroup.com^$dnsrewrite=NOERROR;;
 ||orhdev.com^$dnsrewrite=NOERROR;;
@@ -104334,6 +104463,7 @@
 ||pasfox.co^$dnsrewrite=NOERROR;;
 ||pashedrehone.qpon^$dnsrewrite=NOERROR;;
 ||pasiekazlotoklos.pl^$dnsrewrite=NOERROR;;
+||pasilloungodbases.qpon^$dnsrewrite=NOERROR;;
 ||paslrdcizpgdw.online^$dnsrewrite=NOERROR;;
 ||paslsa.com^$dnsrewrite=NOERROR;;
 ||passengercomprehend.com^$dnsrewrite=NOERROR;;
@@ -106533,6 +106663,7 @@
 ||playmobill.fr^$dnsrewrite=NOERROR;;
 ||playnow.guru^$dnsrewrite=NOERROR;;
 ||playnow.wtf^$dnsrewrite=NOERROR;;
+||playockdarned.qpon^$dnsrewrite=NOERROR;;
 ||playonlinegames.space^$dnsrewrite=NOERROR;;
 ||playsdonkey.com^$dnsrewrite=NOERROR;;
 ||playsnourishbag.com^$dnsrewrite=NOERROR;;
@@ -108741,6 +108872,7 @@
 ||pskuagktarplq.space^$dnsrewrite=NOERROR;;
 ||pskzt.cleobella.com^$dnsrewrite=NOERROR;;
 ||pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com^$dnsrewrite=NOERROR;;
+||pslnfvyytcvba.online^$dnsrewrite=NOERROR;;
 ||pslps.graveltravel.com^$dnsrewrite=NOERROR;;
 ||psma02.com^$dnsrewrite=NOERROR;;
 ||psmastersendgrid.branch.rocks^$dnsrewrite=NOERROR;;
@@ -109410,6 +109542,7 @@
 ||putriddelay.pro^$dnsrewrite=NOERROR;;
 ||putrr16.com^$dnsrewrite=NOERROR;;
 ||putrr7.com^$dnsrewrite=NOERROR;;
+||putteesarbust.cyou^$dnsrewrite=NOERROR;;
 ||puttensoullawzy.qpon^$dnsrewrite=NOERROR;;
 ||puunycbdkdtjz.space^$dnsrewrite=NOERROR;;
 ||puuush.me^$dnsrewrite=NOERROR;;
@@ -109538,6 +109671,7 @@
 ||pwlzrgbk.com^$dnsrewrite=NOERROR;;
 ||pwmctl.com^$dnsrewrite=NOERROR;;
 ||pwmrbjzjee.com^$dnsrewrite=NOERROR;;
+||pwmthueoypkvj.online^$dnsrewrite=NOERROR;;
 ||pwmzks.prelude.kr^$dnsrewrite=NOERROR;;
 ||pwn.af^$dnsrewrite=NOERROR;;
 ||pwnyvbfsuetef.site^$dnsrewrite=NOERROR;;
@@ -109993,6 +110127,7 @@
 ||qcnpyyughyluz.online^$dnsrewrite=NOERROR;;
 ||qcnragymlulzk.website^$dnsrewrite=NOERROR;;
 ||qcnwnixyxaxcy.online^$dnsrewrite=NOERROR;;
+||qcobvdvhldboz.online^$dnsrewrite=NOERROR;;
 ||qcofd.trueseamoss.com^$dnsrewrite=NOERROR;;
 ||qcppad.merrell.com^$dnsrewrite=NOERROR;;
 ||qcpzd.shopatlasgrey.com^$dnsrewrite=NOERROR;;
@@ -110436,6 +110571,7 @@
 ||qkuddzkexfiez.site^$dnsrewrite=NOERROR;;
 ||qkuwfhstvjagy.com^$dnsrewrite=NOERROR;;
 ||qkvfnjfhdparr.store^$dnsrewrite=NOERROR;;
+||qkwwghsbhitbh.online^$dnsrewrite=NOERROR;;
 ||qkwzfobrsku.com^$dnsrewrite=NOERROR;;
 ||qkxfqleua.com^$dnsrewrite=NOERROR;;
 ||qkxwhdgnpczur.space^$dnsrewrite=NOERROR;;
@@ -110620,6 +110756,7 @@
 ||qohdzcdlxukep.online^$dnsrewrite=NOERROR;;
 ||qohlsl.drawer.fr^$dnsrewrite=NOERROR;;
 ||qoibivmolnw.com^$dnsrewrite=NOERROR;;
+||qoifcqvdqabum.site^$dnsrewrite=NOERROR;;
 ||qoilbsfwqd.net^$dnsrewrite=NOERROR;;
 ||qoiqfckhwinup.online^$dnsrewrite=NOERROR;;
 ||qoisr.freynutrition.de^$dnsrewrite=NOERROR;;
@@ -111840,6 +111977,7 @@
 ||rangehaltedmotley.com^$dnsrewrite=NOERROR;;
 ||rangeplayground.com^$dnsrewrite=NOERROR;;
 ||rangergustav.com^$dnsrewrite=NOERROR;;
+||rangerpursuedasia.qpon^$dnsrewrite=NOERROR;;
 ||rangeyfrapler.cfd^$dnsrewrite=NOERROR;;
 ||ranidaelater.qpon^$dnsrewrite=NOERROR;;
 ||rank-master.com^$dnsrewrite=NOERROR;;
@@ -112394,6 +112532,7 @@
 ||reboantzarf.com^$dnsrewrite=NOERROR;;
 ||rebootdazzler.qpon^$dnsrewrite=NOERROR;;
 ||rebootrewire.com^$dnsrewrite=NOERROR;;
+||rebootsandboy.cyou^$dnsrewrite=NOERROR;;
 ||rebootsormers.com^$dnsrewrite=NOERROR;;
 ||rebopsmurly.com^$dnsrewrite=NOERROR;;
 ||rebosaarco.qpon^$dnsrewrite=NOERROR;;
@@ -112893,6 +113032,7 @@
 ||rehvbghwe.cc^$dnsrewrite=NOERROR;;
 ||rehyqhtvaihtg.site^$dnsrewrite=NOERROR;;
 ||reichelcormier.bid^$dnsrewrite=NOERROR;;
+||reifiedscarman.qpon^$dnsrewrite=NOERROR;;
 ||reimageplus.com^$dnsrewrite=NOERROR;;
 ||reincurberoida.cfd^$dnsrewrite=NOERROR;;
 ||reindaks.com^$dnsrewrite=NOERROR;;
@@ -113920,6 +114060,7 @@
 ||rhnsd.splendid.com^$dnsrewrite=NOERROR;;
 ||rho3ihhlouug529z8eneu.rest^$dnsrewrite=NOERROR;;
 ||rhobqhafjhhwl.store^$dnsrewrite=NOERROR;;
+||rhoditepoudretstipule.cyou^$dnsrewrite=NOERROR;;
 ||rhododendron15.top^$dnsrewrite=NOERROR;;
 ||rhofedtj.com^$dnsrewrite=NOERROR;;
 ||rhombicsomeday.com^$dnsrewrite=NOERROR;;
@@ -114103,6 +114244,7 @@
 ||ringtoperfection.com^$dnsrewrite=NOERROR;;
 ||rinmasrfyq.in^$dnsrewrite=NOERROR;;
 ||rinqgwqhyxozh.website^$dnsrewrite=NOERROR;;
+||rinsercrikey.qpon^$dnsrewrite=NOERROR;;
 ||rinshy17.xyz^$dnsrewrite=NOERROR;;
 ||rio9s1zdpd.com^$dnsrewrite=NOERROR;;
 ||riosaladohp.com^$dnsrewrite=NOERROR;;
@@ -114193,10 +114335,12 @@
 ||rjddv.koch.com.au^$dnsrewrite=NOERROR;;
 ||rjdhg.liveagaindetox.com^$dnsrewrite=NOERROR;;
 ||rjdmhl.icu^$dnsrewrite=NOERROR;;
+||rjemafqzprwxc.space^$dnsrewrite=NOERROR;;
 ||rjfhtwwdkebho.online^$dnsrewrite=NOERROR;;
 ||rjfskgjstkfts.website^$dnsrewrite=NOERROR;;
 ||rjg2.destinia.ly^$dnsrewrite=NOERROR;;
 ||rjg4ojoohzj847jjfx2crv.cfd^$dnsrewrite=NOERROR;;
+||rjghjnbxolegb.online^$dnsrewrite=NOERROR;;
 ||rjgriffith.com^$dnsrewrite=NOERROR;;
 ||rjgsjm.gigameubel.nl^$dnsrewrite=NOERROR;;
 ||rjguonqztwmgs.store^$dnsrewrite=NOERROR;;
@@ -114427,7 +114571,9 @@
 ||rmxmtsg.wowe.me^$dnsrewrite=NOERROR;;
 ||rmyaqckyeqioq.website^$dnsrewrite=NOERROR;;
 ||rmybycfedxhns.store^$dnsrewrite=NOERROR;;
+||rmycsmtkwbn.com^$dnsrewrite=NOERROR;;
 ||rmyhibtadohj.com^$dnsrewrite=NOERROR;;
+||rmyvcmyxkcive.online^$dnsrewrite=NOERROR;;
 ||rmzbfum.cn^$dnsrewrite=NOERROR;;
 ||rmzsglng.com^$dnsrewrite=NOERROR;;
 ||rmztc.bostonscally.com^$dnsrewrite=NOERROR;;
@@ -114666,6 +114812,7 @@
 ||ronniunnoted.com^$dnsrewrite=NOERROR;;
 ||ronnoble.com^$dnsrewrite=NOERROR;;
 ||ronracepub.com^$dnsrewrite=NOERROR;;
+||ronrtklhbxy.com^$dnsrewrite=NOERROR;;
 ||ronswank.com^$dnsrewrite=NOERROR;;
 ||roobetaffiliates.com^$dnsrewrite=NOERROR;;
 ||roodlesuval.qpon^$dnsrewrite=NOERROR;;
@@ -114831,6 +114978,7 @@
 ||royaltyfig.com^$dnsrewrite=NOERROR;;
 ||royaltystimulatepen.com^$dnsrewrite=NOERROR;;
 ||roysterdoddereluates.cfd^$dnsrewrite=NOERROR;;
+||roywc0iql.com^$dnsrewrite=NOERROR;;
 ||roywiowmbo.com^$dnsrewrite=NOERROR;;
 ||royzgi.giftishow.com^$dnsrewrite=NOERROR;;
 ||rozomii.info^$dnsrewrite=NOERROR;;
@@ -114899,6 +115047,7 @@
 ||rpyfymluiytke.website^$dnsrewrite=NOERROR;;
 ||rpyor0k.xyz^$dnsrewrite=NOERROR;;
 ||rpyztjadsbonh.store^$dnsrewrite=NOERROR;;
+||rpzlvdgceixjx.online^$dnsrewrite=NOERROR;;
 ||rqapahxncfrik.website^$dnsrewrite=NOERROR;;
 ||rqbdyk.evo.com^$dnsrewrite=NOERROR;;
 ||rqbvgm.aleupominek.pl^$dnsrewrite=NOERROR;;
@@ -114925,6 +115074,7 @@
 ||rqmim.missionmercantile.com^$dnsrewrite=NOERROR;;
 ||rqmob.com^$dnsrewrite=NOERROR;;
 ||rqmzjvta.parfium.bg^$dnsrewrite=NOERROR;;
+||rqnbtzegaczit.site^$dnsrewrite=NOERROR;;
 ||rqnn.funjet.com^$dnsrewrite=NOERROR;;
 ||rqpoi.ashergolf.com^$dnsrewrite=NOERROR;;
 ||rqpyksomviwvbr.com^$dnsrewrite=NOERROR;;
@@ -114938,6 +115088,7 @@
 ||rqswkiedmjkhu.space^$dnsrewrite=NOERROR;;
 ||rqtrk.eu^$dnsrewrite=NOERROR;;
 ||rqtsvdclifjqy.site^$dnsrewrite=NOERROR;;
+||rquwlblmxxtbkp.com^$dnsrewrite=NOERROR;;
 ||rqvsws.carreblanc.com^$dnsrewrite=NOERROR;;
 ||rqwdkzycggpqt.website^$dnsrewrite=NOERROR;;
 ||rqwel.com^$dnsrewrite=NOERROR;;
@@ -115838,6 +115989,7 @@
 ||rudder-server-prd.arena.im^$dnsrewrite=NOERROR;;
 ||rudder-tracking.rudderstack.com^$dnsrewrite=NOERROR;;
 ||rudderlabs.com^$dnsrewrite=NOERROR;;
+||ruddersgamenecredit.cyou^$dnsrewrite=NOERROR;;
 ||ruddishwakon.com^$dnsrewrite=NOERROR;;
 ||ruddockcoupleyamp.cfd^$dnsrewrite=NOERROR;;
 ||ruddsanukit.cyou^$dnsrewrite=NOERROR;;
@@ -116271,6 +116423,7 @@
 ||rzskji.holyart.it^$dnsrewrite=NOERROR;;
 ||rzsqfxjdrtdsc.online^$dnsrewrite=NOERROR;;
 ||rzsyenebnyvgs.website^$dnsrewrite=NOERROR;;
+||rzuagqomzl.in^$dnsrewrite=NOERROR;;
 ||rzuitwlxozftj.website^$dnsrewrite=NOERROR;;
 ||rzuohgfwyoxx.com^$dnsrewrite=NOERROR;;
 ||rzvln.eshakti.com^$dnsrewrite=NOERROR;;
@@ -116989,6 +117142,7 @@
 ||s.zlinkw.com^$dnsrewrite=NOERROR;;
 ||s.zzcdn.me^$dnsrewrite=NOERROR;;
 ||s0-greate.net^$dnsrewrite=NOERROR;;
+||s002o2hkg.com^$dnsrewrite=NOERROR;;
 ||s00hv1jp8.com^$dnsrewrite=NOERROR;;
 ||s02.bestsecret.com^$dnsrewrite=NOERROR;;
 ||s06g9qvr5.com^$dnsrewrite=NOERROR;;
@@ -117658,6 +117812,7 @@
 ||salmoncontroversy.com^$dnsrewrite=NOERROR;;
 ||salmonfin.com^$dnsrewrite=NOERROR;;
 ||salmunc.qpon^$dnsrewrite=NOERROR;;
+||salpoidmattes.qpon^$dnsrewrite=NOERROR;;
 ||salsacartel.com^$dnsrewrite=NOERROR;;
 ||salseprudely.com^$dnsrewrite=NOERROR;;
 ||salsifyua22.com^$dnsrewrite=NOERROR;;
@@ -117689,6 +117844,7 @@
 ||sam.spiegel.de^$dnsrewrite=NOERROR;;
 ||sam4m.com^$dnsrewrite=NOERROR;;
 ||samage-bility.icu^$dnsrewrite=NOERROR;;
+||samajgurgeon.cyou^$dnsrewrite=NOERROR;;
 ||samarasyisneezed.cfd^$dnsrewrite=NOERROR;;
 ||samarketing.sedgwick.com^$dnsrewrite=NOERROR;;
 ||sambuksabaism.cyou^$dnsrewrite=NOERROR;;
@@ -118177,6 +118333,7 @@
 ||satyrsretell.com^$dnsrewrite=NOERROR;;
 ||saucewonderdaytime.com^$dnsrewrite=NOERROR;;
 ||saucon-sponsors.streetinteractive.com^$dnsrewrite=NOERROR;;
+||saulgethuluth.shop^$dnsrewrite=NOERROR;;
 ||saunaproficientprelude.com^$dnsrewrite=NOERROR;;
 ||saunatechnically.com^$dnsrewrite=NOERROR;;
 ||saunsocqmgynh.website^$dnsrewrite=NOERROR;;
@@ -118537,6 +118694,7 @@
 ||schemas.microsoft.akadns.net^$dnsrewrite=NOERROR;;
 ||schemastsuga.cyou^$dnsrewrite=NOERROR;;
 ||schemecontinuingwinning.com^$dnsrewrite=NOERROR;;
+||schemejobo.com^$dnsrewrite=NOERROR;;
 ||schemesplights.com^$dnsrewrite=NOERROR;;
 ||schermtictacs.cfd^$dnsrewrite=NOERROR;;
 ||schizypdq.com^$dnsrewrite=NOERROR;;
@@ -118658,6 +118816,7 @@
 ||scotiaonline-verification.com^$dnsrewrite=NOERROR;;
 ||scotiawinze.com^$dnsrewrite=NOERROR;;
 ||scottstapp.afterlight.co^$dnsrewrite=NOERROR;;
+||scouchdroned.qpon^$dnsrewrite=NOERROR;;
 ||scoundrelbreakdown.com^$dnsrewrite=NOERROR;;
 ||scounter.rambler.ru^$dnsrewrite=NOERROR;;
 ||scousesinapicidesia.cfd^$dnsrewrite=NOERROR;;
@@ -119791,6 +119950,7 @@
 ||seek.uwa.edu.au^$dnsrewrite=NOERROR;;
 ||seekdaters.com^$dnsrewrite=NOERROR;;
 ||seekfinddate.com^$dnsrewrite=NOERROR;;
+||seekinggheberrucking.qpon^$dnsrewrite=NOERROR;;
 ||seekmymatch.com^$dnsrewrite=NOERROR;;
 ||seekmyshop.com^$dnsrewrite=NOERROR;;
 ||seekoflol.com^$dnsrewrite=NOERROR;;
@@ -119827,6 +119987,7 @@
 ||sefwpmjrsvewq.website^$dnsrewrite=NOERROR;;
 ||segapi.splice.com^$dnsrewrite=NOERROR;;
 ||segapi.whop.com^$dnsrewrite=NOERROR;;
+||seggarscharred.cfd^$dnsrewrite=NOERROR;;
 ||seggiobarrack.shop^$dnsrewrite=NOERROR;;
 ||seggromcoombealophas.qpon^$dnsrewrite=NOERROR;;
 ||seggymuseums.qpon^$dnsrewrite=NOERROR;;
@@ -120161,6 +120322,7 @@
 ||ser678uikl.xyz^$dnsrewrite=NOERROR;;
 ||seraphichorizon.com^$dnsrewrite=NOERROR;;
 ||seraphicjubilee.com^$dnsrewrite=NOERROR;;
+||seraphswynn.qpon^$dnsrewrite=NOERROR;;
 ||serapischoroid.com^$dnsrewrite=NOERROR;;
 ||serasearchtop.com^$dnsrewrite=NOERROR;;
 ||serbianskyreparded.cyou^$dnsrewrite=NOERROR;;
@@ -123477,6 +123639,7 @@
 ||sfbyctnfokzd.com^$dnsrewrite=NOERROR;;
 ||sfcbl.mejuri.com^$dnsrewrite=NOERROR;;
 ||sfcev.ragenationapparel.com^$dnsrewrite=NOERROR;;
+||sfcjqhtaha.com^$dnsrewrite=NOERROR;;
 ||sfcnhm.hyundaihmall.com^$dnsrewrite=NOERROR;;
 ||sfcnprnmkvdlh.space^$dnsrewrite=NOERROR;;
 ||sfcv.chinavi-shop.jp^$dnsrewrite=NOERROR;;
@@ -125528,6 +125691,7 @@
 ||shanjewelry.com^$dnsrewrite=NOERROR;;
 ||shanksmagh.com^$dnsrewrite=NOERROR;;
 ||shanlinseed.com^$dnsrewrite=NOERROR;;
+||shannynomancyologies.cfd^$dnsrewrite=NOERROR;;
 ||shanorin.com^$dnsrewrite=NOERROR;;
 ||shantovai.shanroz.com^$dnsrewrite=NOERROR;;
 ||shanvezhu.com^$dnsrewrite=NOERROR;;
@@ -126753,6 +126917,7 @@
 ||skinszone.net^$dnsrewrite=NOERROR;;
 ||skip.oewabox.at^$dnsrewrite=NOERROR;;
 ||skipdissatisfactionengland.com^$dnsrewrite=NOERROR;;
+||skipped.vip^$dnsrewrite=NOERROR;;
 ||skipperturncap.qpon^$dnsrewrite=NOERROR;;
 ||skipperx.net^$dnsrewrite=NOERROR;;
 ||skirecruitdoorway.com^$dnsrewrite=NOERROR;;
@@ -146005,6 +146170,7 @@
 ||stridentladder.pro^$dnsrewrite=NOERROR;;
 ||stridentuser.com^$dnsrewrite=NOERROR;;
 ||strideovertakelargest.com^$dnsrewrite=NOERROR;;
+||striderosteoidsister.cyou^$dnsrewrite=NOERROR;;
 ||stridpule.shop^$dnsrewrite=NOERROR;;
 ||strifeschronol.cyou^$dnsrewrite=NOERROR;;
 ||strigilemystrochid.cyou^$dnsrewrite=NOERROR;;
@@ -147523,6 +147689,7 @@
 ||sycszolrv.com^$dnsrewrite=NOERROR;;
 ||sycuvdfe.com^$dnsrewrite=NOERROR;;
 ||sydcabegidwsg.store^$dnsrewrite=NOERROR;;
+||syddoumas.qpon^$dnsrewrite=NOERROR;;
 ||sydivekfzaajw.website^$dnsrewrite=NOERROR;;
 ||sydswiples.cyou^$dnsrewrite=NOERROR;;
 ||sydz.tw^$dnsrewrite=NOERROR;;
@@ -150356,6 +150523,7 @@
 ||tdgobe.magazine.urth.co^$dnsrewrite=NOERROR;;
 ||tdgobe.uk.urth.co^$dnsrewrite=NOERROR;;
 ||tdgobe.urth.co^$dnsrewrite=NOERROR;;
+||tdgrop168.vip^$dnsrewrite=NOERROR;;
 ||tdgubsetqwufm.online^$dnsrewrite=NOERROR;;
 ||tdguebgkhv.com^$dnsrewrite=NOERROR;;
 ||tdhnqclf.com^$dnsrewrite=NOERROR;;
@@ -150903,6 +151071,7 @@
 ||tern.daffy.org^$dnsrewrite=NOERROR;;
 ||tern.xebel.co^$dnsrewrite=NOERROR;;
 ||ternarlogoutphossy.qpon^$dnsrewrite=NOERROR;;
+||ternehydnum.cfd^$dnsrewrite=NOERROR;;
 ||terneryeducand.shop^$dnsrewrite=NOERROR;;
 ||terperbelomo.info^$dnsrewrite=NOERROR;;
 ||terra8nb.com^$dnsrewrite=NOERROR;;
@@ -152383,6 +152552,7 @@
 ||tl.starshiners.hu^$dnsrewrite=NOERROR;;
 ||tl.starshiners.ro^$dnsrewrite=NOERROR;;
 ||tl2go.com^$dnsrewrite=NOERROR;;
+||tl4575yjg4y2wbiqz7jbcm6zug1cnc5i.rest^$dnsrewrite=NOERROR;;
 ||tl7x928g7l3ppnqnc7ngy8wue3qgkvnb.cfd^$dnsrewrite=NOERROR;;
 ||tl9q49ffi.com^$dnsrewrite=NOERROR;;
 ||tla.traderlink.com^$dnsrewrite=NOERROR;;
@@ -152556,6 +152726,7 @@
 ||tmpsdp.icu^$dnsrewrite=NOERROR;;
 ||tmqhageaip.com^$dnsrewrite=NOERROR;;
 ||tmqqm.smartrike.com.au^$dnsrewrite=NOERROR;;
+||tmqrajsnydfyf.site^$dnsrewrite=NOERROR;;
 ||tmqzu.dimebeautyco.com^$dnsrewrite=NOERROR;;
 ||tmrhpl.nurse-agent.com^$dnsrewrite=NOERROR;;
 ||tmrjmp.com^$dnsrewrite=NOERROR;;
@@ -160067,6 +160238,7 @@
 ||ud783c02.com^$dnsrewrite=NOERROR;;
 ||uda71a.oliviakate.nl^$dnsrewrite=NOERROR;;
 ||udarem.com^$dnsrewrite=NOERROR;;
+||udasihaterpionic.qpon^$dnsrewrite=NOERROR;;
 ||udbaa.com^$dnsrewrite=NOERROR;;
 ||udbdf-v2.nimo.tv^$dnsrewrite=NOERROR;;
 ||udbdf.apkpure.com^$dnsrewrite=NOERROR;;
@@ -160122,6 +160294,7 @@
 ||udsrpbegrpdjz.online^$dnsrewrite=NOERROR;;
 ||udtnjdhtdb.com^$dnsrewrite=NOERROR;;
 ||udttmnper.com^$dnsrewrite=NOERROR;;
+||uduwdbhmot.com^$dnsrewrite=NOERROR;;
 ||udvgpkmn.vertextech-eg.com^$dnsrewrite=NOERROR;;
 ||udwaporb.screenplayer.ai^$dnsrewrite=NOERROR;;
 ||udwfivurhnfdv.com^$dnsrewrite=NOERROR;;
@@ -161014,6 +161187,7 @@
 ||unfinishedplace.com^$dnsrewrite=NOERROR;;
 ||unfluidtoto.shop^$dnsrewrite=NOERROR;;
 ||unfoldedclimate.com^$dnsrewrite=NOERROR;;
+||unfoldstholed.cfd^$dnsrewrite=NOERROR;;
 ||unfortunate-can.com^$dnsrewrite=NOERROR;;
 ||unfortunatechampionship.com^$dnsrewrite=NOERROR;;
 ||unfortunatehospitality.com^$dnsrewrite=NOERROR;;
@@ -161215,6 +161389,7 @@
 ||unmanyatter.com^$dnsrewrite=NOERROR;;
 ||unme-asso.fr^$dnsrewrite=NOERROR;;
 ||unmectappic.com^$dnsrewrite=NOERROR;;
+||unmeekpledge.cyou^$dnsrewrite=NOERROR;;
 ||unmeetbookies.com^$dnsrewrite=NOERROR;;
 ||unmefwsycamtq.space^$dnsrewrite=NOERROR;;
 ||unmnehicnyoiz.site^$dnsrewrite=NOERROR;;
@@ -163770,6 +163945,7 @@
 ||vesaniamissusriboso.qpon^$dnsrewrite=NOERROR;;
 ||veskitnerved.com^$dnsrewrite=NOERROR;;
 ||vesperprayful.qpon^$dnsrewrite=NOERROR;;
+||vespinafoveae.qpon^$dnsrewrite=NOERROR;;
 ||vespymedia.com^$dnsrewrite=NOERROR;;
 ||vesseldoubts.com^$dnsrewrite=NOERROR;;
 ||vessisdeutschland.com^$dnsrewrite=NOERROR;;
@@ -164328,6 +164504,7 @@
 ||vimrcluqfmwih.site^$dnsrewrite=NOERROR;;
 ||vimxpd.calcadoslaroche.com.br^$dnsrewrite=NOERROR;;
 ||vimyecwsfwun.com^$dnsrewrite=NOERROR;;
+||vinaliapilers.qpon^$dnsrewrite=NOERROR;;
 ||vinanb.icu^$dnsrewrite=NOERROR;;
 ||vinassefarrageexla.cyou^$dnsrewrite=NOERROR;;
 ||vindhuisdieren.com^$dnsrewrite=NOERROR;;
@@ -164367,6 +164544,7 @@
 ||violetfigure.com^$dnsrewrite=NOERROR;;
 ||violetlimitdownstairs.com^$dnsrewrite=NOERROR;;
 ||violetop33.top^$dnsrewrite=NOERROR;;
+||violineguldens.cyou^$dnsrewrite=NOERROR;;
 ||violoncello21.top^$dnsrewrite=NOERROR;;
 ||violoussummarcormels.qpon^$dnsrewrite=NOERROR;;
 ||vionito.com^$dnsrewrite=NOERROR;;
@@ -165267,6 +165445,7 @@
 ||vrvjwr.mobelaris.com^$dnsrewrite=NOERROR;;
 ||vrwjvaxdqcu.com^$dnsrewrite=NOERROR;;
 ||vrwzecqcyjfmy.site^$dnsrewrite=NOERROR;;
+||vrxdnowkpaelgn.com^$dnsrewrite=NOERROR;;
 ||vry9.destinia.com^$dnsrewrite=NOERROR;;
 ||vrzmfy.fool.com^$dnsrewrite=NOERROR;;
 ||vrzuhj.icu^$dnsrewrite=NOERROR;;
@@ -165569,6 +165748,7 @@
 ||vwoocnpq.com^$dnsrewrite=NOERROR;;
 ||vwotiw.agazeta.com.br^$dnsrewrite=NOERROR;;
 ||vwowvu9ha.com^$dnsrewrite=NOERROR;;
+||vwpgnvwgywbrfo.com^$dnsrewrite=NOERROR;;
 ||vwpttkoh.xyz^$dnsrewrite=NOERROR;;
 ||vwqbuc.beautymade.com^$dnsrewrite=NOERROR;;
 ||vwresv.homepro.jp^$dnsrewrite=NOERROR;;
@@ -165677,6 +165857,7 @@
 ||vyshuddphvxka.store^$dnsrewrite=NOERROR;;
 ||vysqlt.essoco.com^$dnsrewrite=NOERROR;;
 ||vysr4o0eg.com^$dnsrewrite=NOERROR;;
+||vytix.net^$dnsrewrite=NOERROR;;
 ||vytjbahlkcmwn.space^$dnsrewrite=NOERROR;;
 ||vyuaolnqfgoas.store^$dnsrewrite=NOERROR;;
 ||vyufgiaesxzib.site^$dnsrewrite=NOERROR;;
@@ -166105,6 +166286,7 @@
 ||wangxialin.top^$dnsrewrite=NOERROR;;
 ||wangyq.ltd^$dnsrewrite=NOERROR;;
 ||wanlyavower.com^$dnsrewrite=NOERROR;;
+||wannesstetrao.cfd^$dnsrewrite=NOERROR;;
 ||wanproxy.127.net^$dnsrewrite=NOERROR;;
 ||want-s0me-push.net^$dnsrewrite=NOERROR;;
 ||want-some-psh.com^$dnsrewrite=NOERROR;;
@@ -166127,6 +166309,7 @@
 ||wap001.bytravel.cn^$dnsrewrite=NOERROR;;
 ||wap1.laogu.wang^$dnsrewrite=NOERROR;;
 ||wap2.laogu.wang^$dnsrewrite=NOERROR;;
+||wapatohaiari.shop^$dnsrewrite=NOERROR;;
 ||wapatoowakens.cyou^$dnsrewrite=NOERROR;;
 ||wapbaze.com^$dnsrewrite=NOERROR;;
 ||wapn1.flosports.tv^$dnsrewrite=NOERROR;;
@@ -166283,6 +166466,7 @@
 ||waterloggedmention.pro^$dnsrewrite=NOERROR;;
 ||waterlooberlin.viessmann.ca^$dnsrewrite=NOERROR;;
 ||waterproofgranitegag.com^$dnsrewrite=NOERROR;;
+||waterproofwheelbarrow.com^$dnsrewrite=NOERROR;;
 ||watersensible.com^$dnsrewrite=NOERROR;;
 ||waterstudio.fr^$dnsrewrite=NOERROR;;
 ||watery-dream.pro^$dnsrewrite=NOERROR;;
@@ -166347,6 +166531,7 @@
 ||wayjoyfarm.com^$dnsrewrite=NOERROR;;
 ||waylowrates.net^$dnsrewrite=NOERROR;;
 ||waymarkgentiin.com^$dnsrewrite=NOERROR;;
+||waywodeantaeus.shop^$dnsrewrite=NOERROR;;
 ||wayyaj8t094u.www.kodalia.com^$dnsrewrite=NOERROR;;
 ||wazcltokdhjwk.online^$dnsrewrite=NOERROR;;
 ||wazhogebdylsb.space^$dnsrewrite=NOERROR;;
@@ -168890,6 +169075,7 @@
 ||wpeycj.kojitusanso.com^$dnsrewrite=NOERROR;;
 ||wpfc.ml^$dnsrewrite=NOERROR;;
 ||wpftaxtgdh.com^$dnsrewrite=NOERROR;;
+||wpftubkwnddeh.online^$dnsrewrite=NOERROR;;
 ||wpgobx.feber.se^$dnsrewrite=NOERROR;;
 ||wpgobx.hamnen.se^$dnsrewrite=NOERROR;;
 ||wpgobx.marcusoscarsson.se^$dnsrewrite=NOERROR;;
@@ -169376,6 +169562,7 @@
 ||wvrp.cn^$dnsrewrite=NOERROR;;
 ||wvrukp.globalcyclingnetwork.com^$dnsrewrite=NOERROR;;
 ||wvtsnyncckesw.site^$dnsrewrite=NOERROR;;
+||wvukqjvirwicj.site^$dnsrewrite=NOERROR;;
 ||wvvmqsasndeup.space^$dnsrewrite=NOERROR;;
 ||wvvoousaenpzv.space^$dnsrewrite=NOERROR;;
 ||wvvw.france24.com^$dnsrewrite=NOERROR;;
@@ -173560,6 +173747,7 @@
 ||xpeaywvlpom.com^$dnsrewrite=NOERROR;;
 ||xpeivrvqckryo.store^$dnsrewrite=NOERROR;;
 ||xpffdxzsaqfhs.website^$dnsrewrite=NOERROR;;
+||xpfpctnclgruq.online^$dnsrewrite=NOERROR;;
 ||xpfzmijcszpcma.com^$dnsrewrite=NOERROR;;
 ||xpgvtpgeg.com^$dnsrewrite=NOERROR;;
 ||xphones-2019.info^$dnsrewrite=NOERROR;;
@@ -173874,6 +174062,7 @@
 ||xtzpesixgcobs.website^$dnsrewrite=NOERROR;;
 ||xtzxmy.com^$dnsrewrite=NOERROR;;
 ||xu919zz2i.com^$dnsrewrite=NOERROR;;
+||xuaildchpomncg.com^$dnsrewrite=NOERROR;;
 ||xuajhybskerxo.space^$dnsrewrite=NOERROR;;
 ||xuanyaosp.com^$dnsrewrite=NOERROR;;
 ||xuawdz.xn--b1aedqiqb.xn--p1ai^$dnsrewrite=NOERROR;;
@@ -174012,6 +174201,7 @@
 ||xwlptajihmbkz.space^$dnsrewrite=NOERROR;;
 ||xwlyfl.xyz^$dnsrewrite=NOERROR;;
 ||xwmcxqcxipcln.site^$dnsrewrite=NOERROR;;
+||xwnrymhyjywwe.website^$dnsrewrite=NOERROR;;
 ||xwoeoc.rietveldlicht.be^$dnsrewrite=NOERROR;;
 ||xwpoxv.birdies.com^$dnsrewrite=NOERROR;;
 ||xwpzlz.gemimarket.it^$dnsrewrite=NOERROR;;
@@ -174293,6 +174483,7 @@
 ||y55lspa2v6.com^$dnsrewrite=NOERROR;;
 ||y56gcvx-lean-bear-up.mybluemix.net^$dnsrewrite=NOERROR;;
 ||y5lbtcie4bgyuwiz5ij1x66.cfd^$dnsrewrite=NOERROR;;
+||y5mncokbo7799qu4ow8zcxo63j8iiebfi.cfd^$dnsrewrite=NOERROR;;
 ||y5qhzz3q.designdetails.fm^$dnsrewrite=NOERROR;;
 ||y63eay93i.com^$dnsrewrite=NOERROR;;
 ||y66xvgo5i.chuimg.com^$dnsrewrite=NOERROR;;
@@ -174629,6 +174820,7 @@
 ||yebtagxufacm.com^$dnsrewrite=NOERROR;;
 ||yebvpc.gardengoodsdirect.com^$dnsrewrite=NOERROR;;
 ||yechhogweed.com^$dnsrewrite=NOERROR;;
+||yectwxcyecvqb.site^$dnsrewrite=NOERROR;;
 ||yecytiqior.net^$dnsrewrite=NOERROR;;
 ||yeesshh.com^$dnsrewrite=NOERROR;;
 ||yeezysofficial.us.com^$dnsrewrite=NOERROR;;
@@ -174652,6 +174844,7 @@
 ||yeltcliff.qpon^$dnsrewrite=NOERROR;;
 ||yelvercloture.com^$dnsrewrite=NOERROR;;
 ||yemenicunrashacres.cyou^$dnsrewrite=NOERROR;;
+||yemm4q62qtvo7mm51ugc79vv3g.rest^$dnsrewrite=NOERROR;;
 ||yemmealngv.com^$dnsrewrite=NOERROR;;
 ||yemxiadimvpyr.com^$dnsrewrite=NOERROR;;
 ||yenauddk.com^$dnsrewrite=NOERROR;;
@@ -174809,6 +175002,7 @@
 ||ygwdai.cn^$dnsrewrite=NOERROR;;
 ||ygx2myq993.com^$dnsrewrite=NOERROR;;
 ||ygxgk.cn^$dnsrewrite=NOERROR;;
+||ygxiwlteyplry.website^$dnsrewrite=NOERROR;;
 ||ygxmyhimubyyl.website^$dnsrewrite=NOERROR;;
 ||ygxqjz.intersport.fi^$dnsrewrite=NOERROR;;
 ||ygz1pd7.online^$dnsrewrite=NOERROR;;
@@ -175528,6 +175722,7 @@
 ||yqfkcckuuk.com^$dnsrewrite=NOERROR;;
 ||yqg.jobui.com^$dnsrewrite=NOERROR;;
 ||yqgbrupozdfrn.site^$dnsrewrite=NOERROR;;
+||yqgtuqf.icu^$dnsrewrite=NOERROR;;
 ||yqgyfmjmtnace.online^$dnsrewrite=NOERROR;;
 ||yqgzaewe.cn^$dnsrewrite=NOERROR;;
 ||yqhorcill.com^$dnsrewrite=NOERROR;;
@@ -175635,6 +175830,7 @@
 ||yskwpresobtfq.website^$dnsrewrite=NOERROR;;
 ||ysl3.destinia.ec^$dnsrewrite=NOERROR;;
 ||yslsymovnkkjl.site^$dnsrewrite=NOERROR;;
+||ysmcykeuodcw.com^$dnsrewrite=NOERROR;;
 ||ysoarfptqslwc.website^$dnsrewrite=NOERROR;;
 ||ysokpueqiyfah.online^$dnsrewrite=NOERROR;;
 ||ysont.cn^$dnsrewrite=NOERROR;;
@@ -175713,6 +175909,7 @@
 ||ytwhnokypjqsp.online^$dnsrewrite=NOERROR;;
 ||ytwshjvqlhlyf.space^$dnsrewrite=NOERROR;;
 ||ytwtxi.beautybio.com^$dnsrewrite=NOERROR;;
+||ytxayrnsrmibz.online^$dnsrewrite=NOERROR;;
 ||ytxpnx.shokunosoyokaze.com^$dnsrewrite=NOERROR;;
 ||ytydijifrvcyj.club^$dnsrewrite=NOERROR;;
 ||ytyeogriluczo.site^$dnsrewrite=NOERROR;;
@@ -175768,6 +175965,7 @@
 ||yuksensoberjousts.cyou^$dnsrewrite=NOERROR;;
 ||yule.sohu.com^$dnsrewrite=NOERROR;;
 ||yulx.cn^$dnsrewrite=NOERROR;;
+||yumatitulus.cyou^$dnsrewrite=NOERROR;;
 ||yume.com^$dnsrewrite=NOERROR;;
 ||yumenetworks.com^$dnsrewrite=NOERROR;;
 ||yumhusk.com^$dnsrewrite=NOERROR;;
@@ -176056,6 +176254,7 @@
 ||yyqrofyyvjfyo.space^$dnsrewrite=NOERROR;;
 ||yyroyyipsitcf.site^$dnsrewrite=NOERROR;;
 ||yyrtip.mujkoberec.cz^$dnsrewrite=NOERROR;;
+||yyseikqzfubmp.site^$dnsrewrite=NOERROR;;
 ||yyselrqpyu.com^$dnsrewrite=NOERROR;;
 ||yysjea.stepstone.nl^$dnsrewrite=NOERROR;;
 ||yysqrv.berge-meer.de^$dnsrewrite=NOERROR;;
@@ -176576,6 +176775,7 @@
 ||zdrg.voksi.com^$dnsrewrite=NOERROR;;
 ||zds.net.anwalt.de^$dnsrewrite=NOERROR;;
 ||zdsdt.tusolwellness.com^$dnsrewrite=NOERROR;;
+||zduskykoxzasu.site^$dnsrewrite=NOERROR;;
 ||zduwgpvfgvhqm.space^$dnsrewrite=NOERROR;;
 ||zdvfpa.xyz^$dnsrewrite=NOERROR;;
 ||zdvtuadwafljw.global^$dnsrewrite=NOERROR;;
@@ -177300,6 +177500,7 @@
 ||zmyvawmwezr.com^$dnsrewrite=NOERROR;;
 ||zmywhopme.in^$dnsrewrite=NOERROR;;
 ||zmzkyj.agrieuro.com^$dnsrewrite=NOERROR;;
+||znasjsvlcqxfm.site^$dnsrewrite=NOERROR;;
 ||znbgaspigycyc.space^$dnsrewrite=NOERROR;;
 ||znbkeybfqmeub.space^$dnsrewrite=NOERROR;;
 ||znbpuyxgkvezl.online^$dnsrewrite=NOERROR;;
@@ -177933,6 +178134,7 @@
 ||zxnkmlwavdxo.com^$dnsrewrite=NOERROR;;
 ||zxnymrendoxms.space^$dnsrewrite=NOERROR;;
 ||zxphiz.tech^$dnsrewrite=NOERROR;;
+||zxpvebhtojfvgu.com^$dnsrewrite=NOERROR;;
 ||zxqdqf.rengas-online.com^$dnsrewrite=NOERROR;;
 ||zxqnbp.heute-wohnen.de^$dnsrewrite=NOERROR;;
 ||zxqoyqtloykrc.website^$dnsrewrite=NOERROR;;
